@@ -1,0 +1,2520 @@
+<html>
+
+<head>
+<meta http-equiv=Content-Type content="text/html; charset=windows-1252">
+<meta name=Generator content="Microsoft Word 14 (filtered)">
+<style>
+<!--
+ /* Font Definitions */
+ @font-face
+	{font-family:Wingdings;
+	panose-1:5 0 0 0 0 0 0 0 0 0;}
+@font-face
+	{font-family:"MS Mincho";
+	panose-1:2 2 6 9 4 2 5 8 3 4;}
+@font-face
+	{font-family:"MS Mincho";
+	panose-1:2 2 6 9 4 2 5 8 3 4;}
+@font-face
+	{font-family:Calibri;
+	panose-1:2 15 5 2 2 2 4 3 2 4;}
+@font-face
+	{font-family:Tahoma;
+	panose-1:2 11 6 4 3 5 4 4 2 4;}
+@font-face
+	{font-family:"Bookman Old Style";
+	panose-1:2 5 6 4 5 5 5 2 2 4;}
+@font-face
+	{font-family:"\@MS Mincho";
+	panose-1:2 2 6 9 4 2 5 8 3 4;}
+ /* Style Definitions */
+ p.MsoNormal, li.MsoNormal, div.MsoNormal
+	{margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:10.0pt;
+	margin-left:0cm;
+	line-height:115%;
+	font-size:11.0pt;
+	font-family:"Calibri","sans-serif";}
+h1
+	{mso-style-link:"Título 1 Char";
+	margin:0cm;
+	margin-bottom:.0001pt;
+	text-align:center;
+	page-break-after:avoid;
+	font-size:11.0pt;
+	font-family:"Bookman Old Style","serif";}
+p.MsoHeader, li.MsoHeader, div.MsoHeader
+	{mso-style-link:"Cabeçalho Char";
+	margin:0cm;
+	margin-bottom:.0001pt;
+	font-size:11.0pt;
+	font-family:"Calibri","sans-serif";}
+p.MsoFooter, li.MsoFooter, div.MsoFooter
+	{mso-style-link:"Rodapé Char";
+	margin:0cm;
+	margin-bottom:.0001pt;
+	font-size:11.0pt;
+	font-family:"Calibri","sans-serif";}
+p.MsoBodyText, li.MsoBodyText, div.MsoBodyText
+	{mso-style-link:"Corpo de texto Char";
+	margin:0cm;
+	margin-bottom:.0001pt;
+	text-align:justify;
+	font-size:11.0pt;
+	font-family:"Times New Roman","serif";
+	font-weight:bold;}
+p.MsoBodyText2, li.MsoBodyText2, div.MsoBodyText2
+	{mso-style-link:"Corpo de texto 2 Char";
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:6.0pt;
+	margin-left:0cm;
+	line-height:200%;
+	font-size:11.0pt;
+	font-family:"Calibri","sans-serif";}
+p.MsoBodyText3, li.MsoBodyText3, div.MsoBodyText3
+	{mso-style-link:"Corpo de texto 3 Char";
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:6.0pt;
+	margin-left:0cm;
+	line-height:115%;
+	font-size:8.0pt;
+	font-family:"Calibri","sans-serif";}
+p.MsoAcetate, li.MsoAcetate, div.MsoAcetate
+	{mso-style-link:"Texto de balão Char";
+	margin:0cm;
+	margin-bottom:.0001pt;
+	font-size:8.0pt;
+	font-family:"Tahoma","sans-serif";}
+p.MsoListParagraph, li.MsoListParagraph, div.MsoListParagraph
+	{margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:10.0pt;
+	margin-left:36.0pt;
+	line-height:115%;
+	font-size:11.0pt;
+	font-family:"Calibri","sans-serif";}
+p.MsoListParagraphCxSpFirst, li.MsoListParagraphCxSpFirst, div.MsoListParagraphCxSpFirst
+	{margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:0cm;
+	margin-left:36.0pt;
+	margin-bottom:.0001pt;
+	line-height:115%;
+	font-size:11.0pt;
+	font-family:"Calibri","sans-serif";}
+p.MsoListParagraphCxSpMiddle, li.MsoListParagraphCxSpMiddle, div.MsoListParagraphCxSpMiddle
+	{margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:0cm;
+	margin-left:36.0pt;
+	margin-bottom:.0001pt;
+	line-height:115%;
+	font-size:11.0pt;
+	font-family:"Calibri","sans-serif";}
+p.MsoListParagraphCxSpLast, li.MsoListParagraphCxSpLast, div.MsoListParagraphCxSpLast
+	{margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:10.0pt;
+	margin-left:36.0pt;
+	line-height:115%;
+	font-size:11.0pt;
+	font-family:"Calibri","sans-serif";}
+span.CabealhoChar
+	{mso-style-name:"Cabeçalho Char";
+	mso-style-link:Cabeçalho;}
+span.RodapChar
+	{mso-style-name:"Rodapé Char";
+	mso-style-link:Rodapé;}
+span.TextodebaloChar
+	{mso-style-name:"Texto de balão Char";
+	mso-style-link:"Texto de balão";
+	font-family:"Tahoma","sans-serif";}
+span.CorpodetextoChar
+	{mso-style-name:"Corpo de texto Char";
+	mso-style-link:"Corpo de texto";
+	font-family:"Times New Roman","serif";
+	font-weight:bold;}
+p.CA, li.CA, div.CA
+	{mso-style-name:CA;
+	margin-top:12.0pt;
+	margin-right:21.6pt;
+	margin-bottom:0cm;
+	margin-left:7.2pt;
+	margin-bottom:.0001pt;
+	text-align:justify;
+	text-indent:156.25pt;
+	line-height:12.0pt;
+	font-size:11.0pt;
+	font-family:"Bookman Old Style","serif";}
+span.Ttulo1Char
+	{mso-style-name:"Título 1 Char";
+	mso-style-link:"Título 1";
+	font-family:"Bookman Old Style","serif";
+	font-weight:bold;}
+span.Corpodetexto2Char
+	{mso-style-name:"Corpo de texto 2 Char";
+	mso-style-link:"Corpo de texto 2";
+	font-family:"Calibri","sans-serif";}
+span.Corpodetexto3Char
+	{mso-style-name:"Corpo de texto 3 Char";
+	mso-style-link:"Corpo de texto 3";
+	font-family:"Calibri","sans-serif";}
+ /* Page Definitions */
+ @page WordSection1
+	{size:595.3pt 841.9pt;
+	margin:70.85pt 3.0cm 70.85pt 3.0cm;}
+div.WordSection1
+	{page:WordSection1;}
+ /* List Definitions */
+ ol
+	{margin-bottom:0cm;}
+ul
+	{margin-bottom:0cm;}
+-->
+</style>
+
+</head>
+
+<body lang=PT-BR>
+
+<div class=WordSection1>
+
+<p class=MsoNormal style='text-align:justify'><span style='font-family:"Times New Roman","serif"'>&nbsp;</span></p>
+
+<p class=MsoNormal align=center style='text-align:center'><b><span
+style='font-family:"Times New Roman","serif"'>“INSTRUMENTO PARTICULAR DE
+PROMESSA DE COMPRA E VENDA DE UNIDADE AUTÔNOMA E OUTRAS AVENÇAS”</span></b></p>
+
+<p class=MsoNormal align=center style='text-align:center'><b><span
+style='font-family:"Times New Roman","serif"'>&nbsp;</span></b></p>
+
+<p class=MsoNormal align=center style='text-align:center'><b><span
+style='font-family:"Times New Roman","serif"'>RESIDENCIAL BELVÉDÈRE GRAND
+MIRANT</span></b></p>
+
+<p class=MsoNormal style='text-align:justify'><span style='font-family:"Times New Roman","serif"'>&nbsp;</span></p>
+
+<p class=MsoNormal style='text-align:justify'><span style='font-family:"Times New Roman","serif"'>QUADRO
+RESUMO:</span></p>
+
+<p class=MsoNormal style='text-align:justify'><b><span style='font-family:"Times New Roman","serif"'>A)
+       DAS PARTES:</span></b></p>
+
+<p class=MsoNormal style='text-align:justify'><b><span style='font-family:"Times New Roman","serif"'>PROMITENTE
+VENDEDORA</span></b><span style='font-family:"Times New Roman","serif"'>: </span></p>
+
+<p class=MsoNormal style='text-align:justify'><b><span style='font-family:"Times New Roman","serif"'>ZENITH
+RP SPE EMPREENDIMENTO IMOBILIÁRIO LTDA, </span></b><span style='font-family:
+"Times New Roman","serif"'>estabelecida na Rua Campos Salles, 1833, Sala 02, Vila
+Seixas, nesta cidade, regularmente constituída no CNPJ sob nº 13.638.054/0001-29,
+nos termos de sua 1<sup>a</sup> alteração consolidada de seu contrato social
+registrado na Junta Comercial do Estado de São Paulo – JUCESP, sob NIRE nº 330.634/15-0,
+em 31/07/2015, sendo representada, nesse ato, por <b>Iara M. S. Manfrim</b>,
+brasileira, empresária, portadora da cédula de identidade, RG nº 7.562.009
+SSP/SP, e inscrito no CPF sob nº 030.364.948-80, domiciliada e residente em
+Ribeirão Preto-SP. Doravante denominada <b>VENDEDORA.</b></span></p>
+
+<p class=MsoNormal style='text-align:justify'><b><span style='font-family:"Times New Roman","serif"'>PROMISSÁRIO(A)
+COMPRADOR (A):</span></b></p>
+
+<p class=MsoNormal style='text-align:justify'><b><span style='font-family:"Times New Roman","serif"'><?php echo $COMPRADORES ?>.
+</span></b><span style='font-family:"Times New Roman","serif"'>Doravante denominado apenas COMPRADOR(A).</span></p>
+
+<p class=MsoNormal style='text-align:justify'><b><span style='font-family:"Times New Roman","serif"'>B)        DA
+UNIDADE AUTÔNOMA:</span></b></p>
+
+<p class=MsoNormal style='text-align:justify'><b><span style='font-family:"Times New Roman","serif"'>EMPREENDIMENTO</span></b><span
+style='font-family:"Times New Roman","serif"'>: RESIDENCIAL BELVEDERE GRAND
+MIRANT.</span></p>
+
+<p class=MsoNormal style='text-align:justify'><b><span style='font-family:"Times New Roman","serif"'>ENDEREÇO
+DO EMPREENDIMENTO: </span></b><span style='font-family:"Times New Roman","serif"'>RUA
+SEVERIANO AMARO DOS SANTOS, 205 – JARDIM BOTÂNICO - RIBEIRÃO PRETO/SP.</span></p>
+
+<table class=MsoNormalTable border=1 cellspacing=0 cellpadding=0
+ style='margin-left:5.4pt;border-collapse:collapse;border:none'>
+ <tr>
+  <td width=132 valign=top style='width:99.25pt;border:solid black 1.0pt;
+  padding:0cm 5.4pt 0cm 5.4pt'>
+  <p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt;text-align:
+  justify'><span style='font-family:"Times New Roman","serif"'>Unidade:</span></p>
+  <p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt;text-align:
+  justify'><span style='font-family:"Times New Roman","serif"'><?php echo $APTO ?></span></p>
+  </td>
+  <td width=85 valign=top style='width:63.8pt;border:solid black 1.0pt;
+  border-left:none;padding:0cm 5.4pt 0cm 5.4pt'>
+  <p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt;text-align:
+  justify'><span style='font-family:"Times New Roman","serif"'>Vagas:</span></p>
+  <p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt;text-align:
+  justify'><span style='font-family:"Times New Roman","serif"'><?php echo $VAGAS ?></span></p>
+  </td>
+  <td width=161 valign=top style='width:120.45pt;border:solid black 1.0pt;
+  border-left:none;padding:0cm 5.4pt 0cm 5.4pt'>
+  <p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt;text-align:
+  justify'><span style='font-family:"Times New Roman","serif"'>Número das
+  Vagas:</span></p>
+  <p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt;text-align:
+  justify'><span style='font-family:"Times New Roman","serif"'><?php echo $NUMERO_VAGAS ?></span></p>
+  </td>
+  <td width=189 valign=top style='width:5.0cm;border:solid black 1.0pt;
+  border-left:none;padding:0cm 5.4pt 0cm 5.4pt'>
+  <p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt;text-align:
+  justify'><span style='font-family:"Times New Roman","serif"'>Pavimento das
+  Vagas:</span></p>
+  <p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt;text-align:
+  justify'><span style='font-family:"Times New Roman","serif"'><?php echo $PAVIMENTO_VAGAS ?></span></p>
+  </td>
+ </tr>
+</table>
+
+<p class=MsoNormal style='text-align:justify'><b><span style='font-family:"Times New Roman","serif"'>&nbsp;</span></b></p>
+
+<p class=MsoNormal style='text-align:justify'><b><span style='font-family:"Times New Roman","serif"'>C)
+DO PRAZO DE ENTREGA DA CONSTRUÇÃO:</span></b></p>
+
+<p class=MsoNormal style='text-align:justify'><span style='font-family:"Times New Roman","serif"'>O
+prazo para entrega da obra tem o seu término previsto para 30 de junho de 2018,
+ajustando-se como prazo para carência o período de 180 (cento e oitenta) dias,
+considerados os atrasos normais da construção, nos termos que seguem neste
+contrato.</span></p>
+
+<p class=MsoNormal style='text-align:justify'><b><span style='font-family:"Times New Roman","serif"'>D)
+DO PREÇO DA UNIDADE AUTÔNOMA</span></b><span style='font-family:"Times New Roman","serif"'>:</span></p>
+
+<p class=MsoNormal style='text-align:justify'><u><span style='font-family:"Times New Roman","serif"'>Preço
+Total da Unidade Autônoma:</span></u><span style='font-family:"Times New Roman","serif"'>
+R$ <?php echo $VALOR_CONTRATO ?> (<?php echo $EXTENSO_CONTRATO ?>)</span></p>
+
+<p class=MsoNormal style='text-align:justify'><u><span style='font-family:"Times New Roman","serif"'>Preço
+da fração ideal do terreno:</span></u><span style='font-family:"Times New Roman","serif"'>
+R$ <?php echo $FRACAO_IDEAL ?> (<?php echo $FRACAO_IDEAL_EXTENSO ?>).</span></p>
+
+<p class=MsoNormal style='text-align:justify'><u><span style='font-family:"Times New Roman","serif"'>Preço
+da construção:</span></u><span style='font-family:"Times New Roman","serif"'>
+R$ <?php echo $VALOR_CONSTRUCAO ?> (<?php echo $VALOR_CONSTRUCAO_EXTENSO ?>).</span></p>
+
+<p class=MsoNormal style='text-align:justify'><b><span style='font-family:"Times New Roman","serif"'>E)
+DO SINAL E DO SALDO DO PREÇO</span></b><span style='font-family:"Times New Roman","serif"'>:</span></p>
+
+<p class=MsoNormal style='text-align:justify'><span style='font-family:"Times New Roman","serif"'>E.1)
+<u>Sinal e princípio de pagamento: </u> <b>R$ </b><?php echo $TOTAL_SINAL ?> (<?php echo $TOTAL_SINAL_EXTENSO ?>),<b> </b>a serem pagos através de
+<?php echo $QTDE_SINAL ?> (<?php echo $QTDE_SINAL_EXTENSO ?>) parcelas,
+vencendo-se no dia <b><?php echo $DATA_SINAL ?></b>, por meio dos cheques
+abaixo relacionados emitidos pelo COMPRADOR(A), cuja quitação se derá,
+automaticamente, após a quitação dos referidos cheques;</span></p>
+
+<p class=MsoNormal style='text-align:justify'><span style='font-family:"Times New Roman","serif"'>nº____________,
+valor____________ agência nº________ do Banco _________.<b> </b></span></p>
+
+<p class=MsoNormal style='text-align:justify'><span style='font-family:"Times New Roman","serif"'>nº____________,
+valor____________ agência nº________ do Banco _________.<b> </b></span></p>
+
+<p class=MsoNormal style='text-align:justify'><span style='font-family:"Times New Roman","serif"'>nº____________,
+valor____________ agência nº________ do Banco _________.<b> </b></span></p>
+
+<p class=MsoNormal style='text-align:justify'><span style='font-family:"Times New Roman","serif"'>E.2)
+<u>Saldo do preço para vencimento à prazo:</u> R$ <?php echo $VALOR_SALDO ?> (<?php echo $VALOR_SALDO_EXTENSO ?>).</span></p>
+
+<p class=MsoNormal style='text-align:justify'><b><span style='font-family:"Times New Roman","serif"'>F)
+DA FORMA DE PAGAMENTO DO SALDO DO PREÇO:</span></b></p>
+
+<p class=MsoNormal style='text-align:justify'><span style='font-family:"Times New Roman","serif"'><?php echo $PARCELAS ?></span></p>
+
+<p class=MsoNormal style='text-align:justify'><b><span style='font-family:"Times New Roman","serif"'>&nbsp;</span></b></p>
+
+<p class=MsoNormal style='text-align:justify'><b><span style='font-family:"Times New Roman","serif"'>PARTE
+GERAL:</span></b></p>
+
+<p class=MsoNormal style='text-align:justify;text-indent:35.4pt'><span
+style='font-family:"Times New Roman","serif"'>Por meio do presente instrumento,
+as partes qualificadas na <i>Alínea A</i> do <i>Quadro Resumo</i> acima, após
+terem conhecimento prévio do texto deste instrumento e compreendido o seu
+sentido e alcance, têm justa e acordada a presente promessa de compra e venda
+da unidade imobiliária em construção descrita e caracterizada acima, entendido
+que o presente negócio jurídico se regulará pelos princípios da probidade e da
+boa-fé, mediante as cláusulas e condições estabelecidas a seguir: </span></p>
+
+<p class=MsoNormal style='text-align:justify;text-indent:35.4pt'><span
+style='font-family:"Times New Roman","serif"'>&nbsp;</span></p>
+
+<p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt;text-align:
+justify'><b><span style='font-family:"Times New Roman","serif"'>CLÁUSULA
+PRIMEIRA – DISPOSIÇÕES INICIAIS</span></b></p>
+
+<p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt;text-align:
+justify'><b><span style='font-family:"Times New Roman","serif"'>&nbsp;</span></b></p>
+
+<p class=MsoNormal style='text-align:justify'><span style='font-family:"Times New Roman","serif"'>1.
+1 )    O relacionamento jurídico entre as partes contratantes neste instrumento
+particular será presidido exclusivamente pelas normas legais nele mencionadas,
+constantes da Constituição Federal, do Código Civil Brasileiro (Lei 10.406/02),
+do Código de Defesa do Consumidor (Lei 8.078/90), da Lei 4.380/64 (institui a
+correção monetária nos contratos imobiliários), da Lei 4.591/64 (dispõe sobre o
+condomínio em edificações e as incorporações imobiliárias), da Lei 9.514/97
+(dispõe sobre o Sistema de Financiamento Imobiliário e institui a alienação
+fiduciária de coisa imóvel) e da Medida Provisória 2.223, de 23 de setembro de
+2001.</span></p>
+
+<p class=MsoNormal style='text-align:justify'><span style='font-family:"Times New Roman","serif"'>1.
+2 )    Para os fins deste contrato, as partes declaram compreender que: (a)
+hipoteca é um direito real, que vincula o bem gravado, acompanhando-o sempre,
+pelo que enquanto não satisfeita inteiramente a dívida, subsiste o direito real
+incidente sobre a coisa; (b) alienação fiduciária é o negócio pelo qual o
+devedor, ou fiduciante, com o escopo da garantia, contrata a transferência ao
+credor,ou fiduciário, da propriedade resolúvel de coisa imóvel; (c) as
+operações de comercialização de imóveis, construídos ou em construção, com
+pagamento parcelado, podem ser pactuadas nas mesmas condições permitidas para
+as entidades autorizadas a operar no Sistema de Financiamento Imobiliário
+(SFI), inclusive com relação a reajuste monetário mensal, com base em índice de
+preços setoriais, de preços gerais ou pelo índice de remuneração básica dos
+depósitos de poupança (como prevê o art. 15 da MP 2223/01), a incidência de
+juros (como já dispunham os arts. 5º, da Lei 4.380/64 e art. 1º da Lei
+4.864/65, e o citado art. 15 da MP 2223/01), as perdas e danos pré-fixadas para
+o caso de resolução da promessa de compra e venda por inadimplemento (como já
+dispunha o CDC  - Lei 8.078/90, em especial com relação ao disposto nos seus
+arts. 51, II e IV e 53, e também o mencionado art. 15 da MP 2223/01) e a
+possibilidade de ingresso em qualquer sistema de financiamento de imóveis (como
+dispõe a MP 2223/01, dentre outros no seu art. 1º), regras que são
+absolutamente justas, eis porque com elas as partes contratantes concordam,
+expressamente, sem oposição ou restrição de qualquer espécie ou natureza.  </span></p>
+
+<p class=MsoNormal style='text-align:justify'><span style='font-family:"Times New Roman","serif"'>&nbsp;</span></p>
+
+<p class=MsoNormal style='text-align:justify'><b><span style='font-family:"Times New Roman","serif"'>CLÁUSULA
+SEGUNDA – DO EMPREENDIMENTO</span></b></p>
+
+<p class=MsoNormal style='text-align:justify'><b><span style='font-family:"Times New Roman","serif"'>&nbsp;</span></b></p>
+
+<p class=MsoNormal style='text-align:justify'><span style='font-family:"Times New Roman","serif"'>2.
+1 )     O terreno destinado ao Condomínio RESIDENCIAL BELVEDERE GRAND MIRANT é resultante
+da fusão dos lotes 1, 2, 3, 4, 5, 6, 7, 19, 20 e 21 da quadra 08 do Loteamento
+Jardim Botânico, com a seguinte medida e confrontação: “com frente para a Rua
+Severiano Amaro dos Santos, esquina com a Rua Jose Barbosa Neto e com a Rua
+Vitor Hugo da Cunha Campos, medindo e confrontando-se: 42,03 metros com a Rua
+Severiano Amaro dos Santos, 13,77 metros em linha curva, com raio de 9,00
+metros, na confluência da Rua Severiano Amaro dos Santos com a Rua Jose Barbosa
+Neto; 63,37 metros do lado direito da Rua Jose Barbosa Neto; 30,00 metros nos
+fundos com o lote 08; daí, deflete à direita 40,00 metros, com os lotes
+15,16,17 e 18; deflete à esquerda 30,00 metros , até encontrar a Rua Vitor Hugo
+da Cunha Campos; deflete à direita pela Rua Vitor Hugo da Cunha Campos por
+25,08 metros; e 14,50 metros em linha curva, com raio de 9,00 metros, na
+confluência das Rua Vitor Hugo da Cunha Campos com a Rua Severiano Amaro dos
+Santos, perfazendo a área de 3.159,00 metros quadrados”, cadastrado na
+municipalidade local sob n° 337.437, e matriculado junto ao 2º Cartório de Registro
+de Imóveis de Ribeirão Preto/SP.</span></p>
+
+<p class=MsoNormal style='text-align:justify'><span style='font-family:"Times New Roman","serif"'>&nbsp;</span></p>
+
+<p class=MsoNormal style='text-align:justify'><span style='font-family:"Times New Roman","serif"'>2.
+2 )  O objeto da incorporação encontra-se  nos termos da Lei Federal n. 4.591,
+de 16 de dezembro de 1.964, com as modificações decorrentes da Lei Federal n.
+4.864, de 29 de novembro de 1.965 e em conformidade com o regulamentado no
+Decreto n. 55.815, de 08 de março de 1.965, é um Condomínio Residencial que se
+denominará “RESIDENCIAL BELVÉDÈRE GRAND MIRANT” composto por 02 (dois)
+Edifícios sendo o Edifício 1 denominado (EDIFÍCIO HARPIA) e o Edifício 2
+denominado (EDIFÍCIO CONDOR), que serão construídos sobre o terreno já descrito
+e caracterizado, conforme Alvará de Aprovação nº 51621, emitido na data de
+17/09/2015 pela Prefeitura do Município de Ribeirão Preto, e que recebeu o nº
+205 da Rua Severiano Amaro das Santos.</span></p>
+
+<p class=MsoNormal style='text-align:justify'><span style='font-family:"Times New Roman","serif"'>&nbsp;</span></p>
+
+<p class=MsoNormal style='text-align:justify'><span style='font-family:"Times New Roman","serif"'>2.
+3 )  DESCRIÇÃO  DO  CONJUNTO RESIDENCIAL:</span></p>
+
+<p class=MsoNormal style='text-align:justify'><span style='font-family:"Times New Roman","serif"'>O
+“RESIDENCIAL BELVÉDÈRE GRAND MIRANT” será constituído de 02 (dois) Edifícios de
+apartamentos, sendo o Edifício 1 denominado (EDIFÍCIO HARPIA) e o Edifício 2
+denominado (EDIFÍCIO CONDOR), subordinados ao nº 205 da Rua Severiano Amaro dos
+Santos, e que assim se descrevem e se caracterizam:      </span></p>
+
+<p class=MsoNormal style='text-align:justify;text-indent:35.4pt'><b><u><span
+style='font-family:"Times New Roman","serif"'>Edifício 1 – EDIFÍCIO HARPIA</span></u></b><span
+style='font-family:"Times New Roman","serif"'>:-</span></p>
+
+<p class=MsoNormal style='text-align:justify;text-indent:35.4pt'><span
+style='font-family:"Times New Roman","serif"'>O <b>EDIFÍCIO HARPIA</b> é
+composto por 26 (vinte e seis) pavimentos, sendo 1º pavimento ou 3º subsolo, 2º
+pavimento ou 2º subsolo, 3º pavimento ou 1º subsolo, 4º pavimento ou térreo, 5º
+pavimento ou 1º andar ao 21º pavimento ou 17º andar, 22º pavimento ou 18º
+andar, 23º pavimento ou 19º andar, 24º pavimento ou 20º andar, 25º pavimento ou
+21º andar, e 26º pavimento ou ático, assim descritos e caracterizados:</span></p>
+
+<p class=MsoNormal style='text-align:justify;text-indent:35.4pt'><span
+style='font-family:"Times New Roman","serif"'>a)- 1º pavimento ou 3º subsolo,
+onde se localizarão: 57 vagas de estacionamento de veículos do Edifício 2,
+escadas de segurança de acesso aos pavimentos, 3 poços dos elevadores (sendo 02
+sociais e 01 de serviços), hall dos elevadores, DML, 19 armários individuais
+dos apartamentos, casa de bombas, caixas d' água inferiores, jardins para
+ventilação e iluminação deste subsolo e acesso.</span></p>
+
+<p class=MsoNormal style='text-align:justify;text-indent:35.4pt'><span
+style='font-family:"Times New Roman","serif"'>b)- 2º pavimento ou 2º subsolo,
+onde se localizarão:- 101 vagas de estacionamento de veículos dos Edifícios 1 e
+do Edifício 2 (sendo 02 vagas para pessoas portadoras de necessidades
+especiais,32 armários individuais dos apartamentos, 2 escadas de segurança de
+acesso aos pavimentos dos Edifícios 1 e 2,06 vagas de motos, 6 poços dos
+elevadores (04 sociais e 02 de serviços), DML, casa de bombas, jardins para
+ventilação e iluminação deste subsolo e rampas de acesso de veículos ao 1º
+subsolo, hall dos elevadores, caixa d´água para reuso, reservatórios
+inferiores.</span></p>
+
+<p class=MsoNormal style='text-align:justify;text-indent:35.4pt'><span
+style='font-family:"Times New Roman","serif"'>c)- 3º pavimento ou 1º subsolo,
+onde se localizarão:- 86 vagas de estacionamento de veículos dos Edifícios 1 e
+do Edifício 2, 10 vagas de motos, 2 escadas de segurança de acesso aos
+pavimentos, 6 poços dos elevadores (04 sociais e 02 de serviços), DML, 28
+armários individuais dos apartamentos, vazios para ventilação e iluminação dos
+subsolos, entrada e saída de veículos, além de rampas de acesso de veículos ao
+2º Subsolo, e ao térreo, hall dos elevadores e depósito de lixo.</span></p>
+
+<p class=MsoNormal style='text-align:justify;text-indent:35.4pt'><span
+style='font-family:"Times New Roman","serif"'>d)- 4º pavimento ou térreo, onde
+se localizarão:- caixa de escadas, 03 poços de elevadores, halls dos
+elevadores, casa de medidores, e casa dos equipamentos de pressurização. Ainda
+se localizarão, neste pavimento, para uso comum de todo o Condomínio (composto
+pelos dois Edifícios), a guarita do empreendimento, acesso aos Edifícios 01 e
+02, salas de estar, varanda de jogos, fitness, raia, piscina recreativa, deck,
+solarium, prainha, vestiários, salão de festas e gourmet, brinquedoteca, quadra
+de squash, quadra poliesportiva (não oficial), dependências e pátio de
+serviços, casa de primeiros socorros.</span></p>
+
+<p class=MsoNormal style='text-align:justify;text-indent:35.4pt'><span
+style='font-family:"Times New Roman","serif"'>e)- 5º pavimento ou 1º andar ao
+21º pavimento ou 17º andar, onde se localizarão:- 02 unidades residenciais
+autônomas (apartamentos-tipo), caixa de escada, prumada, hall de serviços e
+acesso aos 03 elevadores (02 sociais e 01 de serviço) e duto de pressurização.</span></p>
+
+<p class=MsoNormal style='text-align:justify;text-indent:35.4pt'><span
+style='font-family:"Times New Roman","serif"'>f)- 22º pavimento ou 18º andar,
+onde se localizarão:- 01 unidade residencial autônoma (apartamento), piso
+inferior de 01 unidade residencial autônoma (apartamento duplex), caixa de
+escada, prumada, hall de serviços e acesso aos 03 elevadores (02 sociais e 01
+de serviço) e duto de pressurização.</span></p>
+
+<p class=MsoNormal style='text-align:justify;text-indent:35.4pt'><span
+style='font-family:"Times New Roman","serif"'>g)- 23º pavimento ou 19º andar, onde
+se localização:- 01 unidade residencial autônoma (apartamento), piso superior
+de 01 unidade residencial autônoma (apartamento duplex), caixa de escada,
+prumada, hall de serviços e acesso aos 02 elevadores (01 social e 01 de
+serviço) e duto de pressurização.</span></p>
+
+<p class=MsoNormal style='text-align:justify;text-indent:35.4pt'><span
+style='font-family:"Times New Roman","serif"'>h)- 24º pavimento ou 20º andar,
+onde se localizarão:- piso inferior de 02 unidades residenciais autônomas
+(apartamentos duplex), caixa de escada, prumada, hall de serviços e acesso aos
+03 elevadores (02 sociais e 01 de serviço) e duto de pressurização.</span></p>
+
+<p class=MsoNormal style='text-align:justify;text-indent:35.4pt'><span
+style='font-family:"Times New Roman","serif"'>i)- 25º pavimento ou 21º andar,
+onde se localizarão:- piso superior de 02 unidades residenciais autônomas
+(apartamentos duplex), caixa de escada e 03 poços de elevadores.</span></p>
+
+<p class=MsoNormal style='text-align:justify;text-indent:35.4pt'><span
+style='font-family:"Times New Roman","serif"'>j)- 26º pavimento ou ático, onde
+se localizarão: casa de máquinas, caixa d´água do empreendimento e caixa de
+escadas. </span></p>
+
+<p class=MsoNormal style='text-align:justify;text-indent:35.4pt'><b><span
+style='font-family:"Times New Roman","serif"'>Os apartamentos em número de 39
+unidades residenciais estão assim designados e distribuídos nos pavimentos ou
+andares</span></b><span style='font-family:"Times New Roman","serif"'>:-</span></p>
+
+<p class=MsoNormal style='text-align:justify;text-indent:35.4pt'><span
+style='font-family:"Times New Roman","serif"'>5º pavimento ou 1º andar -
+apartamentos ns. 11 e 12</span></p>
+
+<p class=MsoNormal style='text-align:justify;text-indent:35.4pt'><span
+style='font-family:"Times New Roman","serif"'>6º pavimento ou 2º andar -
+apartamentos ns. 21 e 22</span></p>
+
+<p class=MsoNormal style='text-align:justify;text-indent:35.4pt'><span
+style='font-family:"Times New Roman","serif"'>7º pavimento ou 3º andar -
+apartamentos ns. 31 e 32</span></p>
+
+<p class=MsoNormal style='text-align:justify;text-indent:35.4pt'><span
+style='font-family:"Times New Roman","serif"'>8º pavimento ou 4º andar -
+apartamentos ns. 41 e 42</span></p>
+
+<p class=MsoNormal style='text-align:justify;text-indent:35.4pt'><span
+style='font-family:"Times New Roman","serif"'>9º pavimento ou 5º andar -
+apartamentos ns. 51 e 52</span></p>
+
+<p class=MsoNormal style='text-align:justify;text-indent:35.4pt'><span
+style='font-family:"Times New Roman","serif"'>10º pavimento ou 6º andar -
+apartamentos ns. 61 e 62</span></p>
+
+<p class=MsoNormal style='text-align:justify;text-indent:35.4pt'><span
+style='font-family:"Times New Roman","serif"'>11º pavimento ou 7º andar -
+apartamentos ns. 71 e 72</span></p>
+
+<p class=MsoNormal style='text-align:justify;text-indent:35.4pt'><span
+style='font-family:"Times New Roman","serif"'>12º pavimento ou 8º andar -
+apartamentos ns. 81 e 82</span></p>
+
+<p class=MsoNormal style='text-align:justify;text-indent:35.4pt'><span
+style='font-family:"Times New Roman","serif"'>13º pavimento ou 9º andar -
+apartamentos ns. 91 e 92</span></p>
+
+<p class=MsoNormal style='text-align:justify;text-indent:35.4pt'><span
+style='font-family:"Times New Roman","serif"'>14º pavimento ou 10º andar -
+apartamentos ns. 101 e 102</span></p>
+
+<p class=MsoNormal style='text-align:justify;text-indent:35.4pt'><span
+style='font-family:"Times New Roman","serif"'>15º pavimento ou 11º andar -
+apartamentos ns. 111 e 112</span></p>
+
+<p class=MsoNormal style='text-align:justify;text-indent:35.4pt'><span
+style='font-family:"Times New Roman","serif"'>16º pavimento ou 12º andar -
+apartamentos ns. 121 e 122</span></p>
+
+<p class=MsoNormal style='text-align:justify;text-indent:35.4pt'><span
+style='font-family:"Times New Roman","serif"'>17º pavimento ou 13º andar -
+apartamentos ns. 131 e 132</span></p>
+
+<p class=MsoNormal style='text-align:justify;text-indent:35.4pt'><span
+style='font-family:"Times New Roman","serif"'>18º pavimento ou 14º andar -
+apartamentos ns. 141 e 142</span></p>
+
+<p class=MsoNormal style='text-align:justify;text-indent:35.4pt'><span
+style='font-family:"Times New Roman","serif"'>19º pavimento ou 15º andar -
+apartamentos ns. 151 e 152</span></p>
+
+<p class=MsoNormal style='text-align:justify;text-indent:35.4pt'><span
+style='font-family:"Times New Roman","serif"'>20º pavimento ou 16º andar -
+apartamentos ns. 161 e 162</span></p>
+
+<p class=MsoNormal style='text-align:justify;text-indent:35.4pt'><span
+style='font-family:"Times New Roman","serif"'>21º pavimento ou 17º andar -
+apartamentos ns. 171 e 172</span></p>
+
+<p class=MsoNormal style='text-align:justify;text-indent:35.4pt'><span
+style='font-family:"Times New Roman","serif"'>22º pavimento ou 18º andar -
+apartamento n. 182 e parte inferior do apto. duplex n. 181.</span></p>
+
+<p class=MsoNormal style='text-align:justify;text-indent:35.4pt'><span
+style='font-family:"Times New Roman","serif"'>23º pavimento ou 19º andar -
+apartamento n. 192 e parte superior do apto. duplex 181.</span></p>
+
+<p class=MsoNormal style='text-align:justify;text-indent:35.4pt'><span
+style='font-family:"Times New Roman","serif"'>24º/25º pavimentos ou 20º/21º
+andares – aptos. duplex ns. 201 e 202</span></p>
+
+<p class=MsoNormal style='text-align:justify;text-indent:35.4pt'><span
+style='font-family:"Times New Roman","serif"'>&nbsp;</span></p>
+
+<p class=MsoNormal style='text-align:justify;text-indent:35.4pt'><b><span
+style='font-family:"Times New Roman","serif"'>ÁREAS DOS APARTAMENTOS:-</span></b></p>
+
+<p class=MsoNormal style='text-align:justify;text-indent:35.4pt'><span
+style='font-family:"Times New Roman","serif"'>Os <b>apartamentos de ns. 11, 12,
+21, 22, 31, 32, 41, 42, 51, 52, 61, 62, 71, 72, 81, 82, 91, 92, 101, 102, 111,
+112, 121, 122, 131, 132, 141, 142, 151, 152, 161, 162, 171, 172, 182, 192</b>,
+possuirão a ÁREA PRIVATIVA de 169,210 metros quadrados, a ÁREA COMUM de 140,581
+metros quadrados, nesta já incluída a área correspondente a 03 (três) vagas
+indeterminadas na garagem coletiva do Empreendimento e um armário, perfazendo a
+ÁREA TOTAL de 309,791 metros quadrados, equivalente a fração ideal de
+1,1857655% do terreno e das coisas comuns.</span></p>
+
+<p class=MsoNormal style='text-align:justify;text-indent:35.4pt'><span
+style='font-family:"Times New Roman","serif"'>O <b>apartamento-duplex de n. 181</b>,
+possuirá a ÁREA PRIVATIVA de 311,930 metros quadrados, a ÁREA COMUM de 228,784
+metros quadrados, nesta já incluída a área correspondente a 04 (quatro) vagas
+indeterminadas na garagem coletiva de Empreendimento e um armário, perfazendo a
+ÁREA TOTAL de 540,714 metros quadrados, equivalente a fração ideal de 2,2955124%
+do terreno e das coisas comuns.</span></p>
+
+<p class=MsoNormal style='text-align:justify;text-indent:35.4pt'><span
+style='font-family:"Times New Roman","serif"'>Os <b>apartamentos-duplex de ns.
+201 e 202</b>, possuirão a ÁREA PRIVATIVA de 315,870 metros quadrados, a ÁREA
+COMUM de 230,187 metros quadrados, nesta já incluída a área correspondente a 04
+(quatro) vagas indeterminadas na garagem coletiva de Empreendimento e um
+armário, perfazendo a ÁREA TOTAL de 546,057 metros quadrados, equivalente a
+fração ideal de 2,3192737% do terreno e das coisas comuns.</span></p>
+
+<p class=MsoNormal style='text-align:justify;text-indent:35.4pt'><b><span
+style='font-family:"Times New Roman","serif"'>CONFRONTAÇÃO DOS APARTAMENTOS:-</span></b></p>
+
+<p class=MsoNormal style='text-align:justify;text-indent:35.4pt'><span
+style='font-family:"Times New Roman","serif"'>Cada um dos <b>apartamentos de
+final 1</b>, confrontam em sua integridade, pela frente com áreas comuns do
+Condomínio, caixa de escadas, prumada, duto de pressurização, hall de
+circulação dos elevadores, caixa do elevador social 02, com os apartamentos de
+final 2 do andar, e com o elevador de serviço, lado direito com áreas comuns do
+Condomínio que dividem com a Rua Severiano Amaro dos Santos, lado esquerdo com
+áreas comuns do Condomínio que dividem com o lote 18 da quadra 08 do Loteamento
+Jardim Botânico, e nos fundos com áreas comuns do Condomínio.</span></p>
+
+<p class=MsoNormal style='text-align:justify;text-indent:35.4pt'><span
+style='font-family:"Times New Roman","serif"'>Cada um dos <b>apartamentos de
+final 2</b>, confrontam em sua integridade, pela frente com áreas comuns do
+Condomínio, caixa de escadas, prumada, hall de circulação dos elevadores, caixa
+do elevador social 01, com os apartamentos de final 1 do andar, e com o
+elevador de serviço, lado direito com áreas comuns do Condomínio que dividem
+com o lote 18 da quadra 08 do Loteamento Jardim Botânico, lado esquerdo com
+áreas comuns do Condomínio que dividem com a Rua Severiano Amaro dos Santos, e
+nos fundos com áreas comuns do Condomínio que dividem com a Rua Vitor Hugo da
+Cunha Campos.</span></p>
+
+<p class=MsoNormal style='text-align:justify;text-indent:35.4pt'><b><u><span
+style='font-family:"Times New Roman","serif"'>Edifício 2 – EDIFÍCIO CONDOR</span></u></b><b><span
+style='font-family:"Times New Roman","serif"'>:-</span></b></p>
+
+<p class=MsoNormal style='text-align:justify;text-indent:35.4pt'><span
+style='font-family:"Times New Roman","serif"'>O EDIFÍCIO CONDOR é composto por
+26 (vinte e seis) pavimentos, sendo 1º pavimento ou 3º subsolo, 2º pavimento ou
+2º subsolo, 3º pavimento ou 1º subsolo, 4º pavimento ou térreo, 5º pavimento ou
+1º andar ao 21º pavimento ou 17º andar, 22º pavimento ou 18º andar, 23º
+pavimento ou 19º andar, 24º pavimento ou 20º andar, 25º pavimento ou 21º andar,
+e 26º pavimento ou ático, assim descritos e caracterizados:</span></p>
+
+<p class=MsoNormal style='text-align:justify;text-indent:35.4pt'><span
+style='font-family:"Times New Roman","serif"'>a)- 1º pavimento ou 3º subsolo, onde
+se localizarão: 57 vagas de estacionamento de veículos do Edifício 2, escadas
+de segurança de acesso aos pavimentos, 3 poços dos elevadores (sendo 02 sociais
+e 01 de serviços), hall dos elevadores, DML, 19 armários individuais dos
+apartamentos, casa de bombas, caixas d' água inferiores, jardins para
+ventilação e iluminação deste subsolo e acesso.</span></p>
+
+<p class=MsoNormal style='text-align:justify;text-indent:35.4pt'><span
+style='font-family:"Times New Roman","serif"'>b)- 2º pavimento ou 2º subsolo,
+onde se localizarão:- 101 vagas de estacionamento de veículos dos Edifícios 1 e
+do Edifício 2 (sendo 02 vagas para pessoas portadoras de necessidades
+especiais, 32 armários individuais dos apartamentos, 2 escadas de segurança de
+acesso aos pavimentos dos Edifícios 1 e 2, 06 vagas de motos, 6 poços dos
+elevadores (04 sociais e 02 de serviços), DML, casa de bombas, jardins para
+ventilação e iluminação deste subsolo e rampas de acesso de veículos ao 1º
+subsolo, hall dos elevadores, caixa d´água para reuso, reservatórios
+inferiores.</span></p>
+
+<p class=MsoNormal style='text-align:justify;text-indent:35.4pt'><span
+style='font-family:"Times New Roman","serif"'>c)- 3º pavimento ou 1º subsolo,
+onde se localizarão:- 86 vagas de estacionamento de veículos dos Edifícios 1 e
+do Edifício 2, 10 vagas de motos, 2 escadas de segurança de acesso aos
+pavimentos, 6 poços dos elevadores (04 sociais e 02 de serviços), DML, 28
+armários individuais dos apartamentos, vazios para ventilação e iluminação dos
+subsolos, entrada e saída de veículos, além de rampas de acesso de veículos ao
+2º Subsolo, e ao térreo, hall dos elevadores e depósito de lixo.</span></p>
+
+<p class=MsoNormal style='text-align:justify;text-indent:35.4pt'><span
+style='font-family:"Times New Roman","serif"'>d)- 4º pavimento ou térreo, onde
+se localizarão:- caixa de escadas, 03 poços de elevadores, halls dos
+elevadores, casa de medidores, e casa dos equipamentos de pressurização. Ainda
+se localizarão, neste pavimento, para uso comum de todo o Condomínio (composto
+pelos dois Edifícios), a guarita do empreendimento, acesso aos Edifícios 01 e
+02, salas de estar, varanda de jogos, fitness, raia, piscina recreativa, deck,
+solarium, prainha, vestiários, salão de festas e gourmet, brinquedoteca, quadra
+de squash, quadra poliesportiva (não oficial), dependências e pátio de
+serviços, casa de primeiros socorros.</span></p>
+
+<p class=MsoNormal style='text-align:justify;text-indent:35.4pt'><span
+style='font-family:"Times New Roman","serif"'>e)- 5º pavimento ou 1º andar ao
+21º pavimento ou 17º andar, onde se localizarão:- 02 unidades residenciais
+autônomas (apartamentos-tipo), caixa de escada, prumada, hall de serviços e
+acesso aos 03 elevadores (02 sociais e 01 de serviço) e duto de pressurização.</span></p>
+
+<p class=MsoNormal style='text-align:justify;text-indent:35.4pt'><span
+style='font-family:"Times New Roman","serif"'>f)- 22º pavimento ou 18º andar, onde
+se localizarão:- 02 unidades residenciais autônomas (apartamentos), caixa de
+escada, prumada, hall de serviços e acesso aos 03 elevadores (02 sociais e 01
+de serviço) e duto de pressurização.</span></p>
+
+<p class=MsoNormal style='text-align:justify;text-indent:35.4pt'><span
+style='font-family:"Times New Roman","serif"'>g)- 23º pavimento ou 19º andar,
+onde se localização:- 02 unidades residenciais autônomas (apartamentos), caixa
+de escada, prumada, hall de serviços e acesso aos 03 elevadores (02 sociais e
+01 de serviço) e duto de pressurização.</span></p>
+
+<p class=MsoNormal style='text-align:justify;text-indent:35.4pt'><span
+style='font-family:"Times New Roman","serif"'>h)- 24º pavimento ou 20º andar,
+onde se localizarão:- piso inferior de 02 unidades residenciais autônomas
+(apartamentos duplex), caixa de escada, prumada, hall de serviços e acesso aos
+03 elevadores 03 elevadores (02 sociais e 01 de serviço) e duto de
+pressurização.</span></p>
+
+<p class=MsoNormal style='text-align:justify;text-indent:35.4pt'><span
+style='font-family:"Times New Roman","serif"'>i)- 25º pavimento ou 21º andar,
+onde se localizarão:- piso superior de 02 unidades residenciais autônomas
+(apartamentos duplex), caixa de escada e 03 poços de elevadores.</span></p>
+
+<p class=MsoNormal style='text-align:justify;text-indent:35.4pt'><span
+style='font-family:"Times New Roman","serif"'>j)- 26º pavimento ou ático, onde
+se localizarão: casa de máquinas, caixa d´água do empreendimento e caixa de
+escadas.</span></p>
+
+<p class=MsoNormal style='text-align:justify;text-indent:35.4pt'><b><span
+style='font-family:"Times New Roman","serif"'>Os apartamentos em número de 40
+unidades residenciais estão assim designados e distribuídos nos pavimentos ou
+andares:-</span></b></p>
+
+<p class=MsoNormal style='text-align:justify'><span style='font-family:"Times New Roman","serif"'>5º
+pavimento ou 1º andar - apartamentos ns. 11 e 12</span></p>
+
+<p class=MsoNormal style='text-align:justify'><span style='font-family:"Times New Roman","serif"'>6º
+pavimento ou 2º andar - apartamentos ns. 21 e 22</span></p>
+
+<p class=MsoNormal style='text-align:justify'><span style='font-family:"Times New Roman","serif"'>7º
+pavimento ou 3º andar - apartamentos ns. 31 e 32</span></p>
+
+<p class=MsoNormal style='text-align:justify'><span style='font-family:"Times New Roman","serif"'>8º
+pavimento ou 4º andar - apartamentos ns. 41 e 42</span></p>
+
+<p class=MsoNormal style='text-align:justify'><span style='font-family:"Times New Roman","serif"'>9º
+pavimento ou 5º andar - apartamentos ns. 51 e 52</span></p>
+
+<p class=MsoNormal style='text-align:justify'><span style='font-family:"Times New Roman","serif"'>10º
+pavimento ou 6º andar - apartamentos ns. 61 e 62</span></p>
+
+<p class=MsoNormal style='text-align:justify'><span style='font-family:"Times New Roman","serif"'>11º
+pavimento ou 7º andar - apartamentos ns. 71 e 72</span></p>
+
+<p class=MsoNormal style='text-align:justify'><span style='font-family:"Times New Roman","serif"'>12º
+pavimento ou 8º andar - apartamentos ns. 81 e 82</span></p>
+
+<p class=MsoNormal style='text-align:justify'><span style='font-family:"Times New Roman","serif"'>13º
+pavimento ou 9º andar - apartamentos ns. 91 e 92</span></p>
+
+<p class=MsoNormal style='text-align:justify'><span style='font-family:"Times New Roman","serif"'>14º
+pavimento ou 10º andar - apartamentos ns. 101 e 102</span></p>
+
+<p class=MsoNormal style='text-align:justify'><span style='font-family:"Times New Roman","serif"'>15º
+pavimento ou 11º andar - apartamentos ns. 111 e 112</span></p>
+
+<p class=MsoNormal style='text-align:justify'><span style='font-family:"Times New Roman","serif"'>16º
+pavimento ou 12º andar - apartamentos ns. 121 e 122</span></p>
+
+<p class=MsoNormal style='text-align:justify'><span style='font-family:"Times New Roman","serif"'>17º
+pavimento ou 13º andar - apartamentos ns. 131 e 132</span></p>
+
+<p class=MsoNormal style='text-align:justify'><span style='font-family:"Times New Roman","serif"'>18º
+pavimento ou 14º andar - apartamentos ns. 141 e 142</span></p>
+
+<p class=MsoNormal style='text-align:justify'><span style='font-family:"Times New Roman","serif"'>19º
+pavimento ou 15º andar - apartamentos ns. 151 e 152</span></p>
+
+<p class=MsoNormal style='text-align:justify'><span style='font-family:"Times New Roman","serif"'>20º
+pavimento ou 16º andar - apartamentos ns. 161 e 162</span></p>
+
+<p class=MsoNormal style='text-align:justify'><span style='font-family:"Times New Roman","serif"'>21º
+pavimento ou 17º andar - apartamentos ns. 171 e 172</span></p>
+
+<p class=MsoNormal style='text-align:justify'><span style='font-family:"Times New Roman","serif"'>22º
+pavimento ou 18º andar - apartamentos ns. 181 e 182</span></p>
+
+<p class=MsoNormal style='text-align:justify'><span style='font-family:"Times New Roman","serif"'>23º
+pavimento ou 19º andar - apartamentos ns. 191 e 192</span></p>
+
+<p class=MsoNormal style='text-align:justify'><span style='font-family:"Times New Roman","serif"'>24º/25º
+pavimentos ou 20º/21º andar - apartamentos duplex ns. 201 e 202</span></p>
+
+<p class=MsoNormal style='text-align:justify'><span style='font-family:"Times New Roman","serif"'>&nbsp;</span></p>
+
+<p class=MsoNormal style='text-align:justify;text-indent:35.4pt'><b><span
+style='font-family:"Times New Roman","serif"'>ÁREAS DOS APARTAMENTOS:-</span></b></p>
+
+<p class=MsoNormal style='text-align:justify'><span style='font-family:"Times New Roman","serif"'>Os
+<b>apartamentos de ns. 11, 12, 21, 22, 31, 32, 41, 42, 51, 52, 61, 62, 71, 72,
+81, 82, 91, 92, 101, 102, 111, 112, 121, 122, 131, 132, 141, 142, 151, 152,
+161, 162, 171, 172, 181, 182, 191, 192</b>, possuirão a ÁREA PRIVATIVA de 172,730
+metros quadrados, a ÁREA COMUM de 141,446 metros quadrados, nesta já incluída a
+área correspondente a 03 (três) vagas indeterminadas na garagem coletiva do
+Empreendimento e um armário, perfazendo a ÁREA TOTAL de 314,176 metros
+quadrados, equivalente a fração ideal de 1,2004264% do terreno e das coisas
+comuns.</span></p>
+
+<p class=MsoNormal style='text-align:justify;text-indent:35.4pt'><span
+style='font-family:"Times New Roman","serif"'>Os <b>apartamentos-duplex de ns.
+201 e 202</b>, possuirão a ÁREA PRIVATIVA de 324,360 metros quadrados, a ÁREA
+COMUM de 233,829 metros quadrados, nesta já incluída a área correspondente a 04
+(quatro) vagas indeterminadas na garagem coletiva de Empreendimento e um
+armário, perfazendo a ÁREA TOTAL de 558,189 metros quadrados, equivalente a
+fração ideal de 2,3810895% do terreno e das coisas comuns.</span></p>
+
+<p class=MsoNormal style='text-align:justify;text-indent:35.4pt'><b><span
+style='font-family:"Times New Roman","serif"'>CONFRONTAÇÃO DOS APARTAMENTOS:-</span></b></p>
+
+<p class=MsoNormal style='text-align:justify;text-indent:35.4pt'><span
+style='font-family:"Times New Roman","serif"'>Cada um dos <b>apartamentos de
+final 1</b>, confrontam em sua integridade, pela frente com áreas comuns do
+Condomínio, caixa de escadas, prumada, duto de pressurização, hall de
+circulação dos elevadores, caixa do elevador social 02, com o apartamento de
+final 2 do andar, e elevador de serviço, lado direito com áreas comuns do
+Condomínio que dividem com a Rua José Barbosa Neto, lado esquerdo com áreas
+comuns do Condomínio que dividem com os lotes 15, 16, 17 e 18 da quadra 08 do
+Loteamento Jardim Botânico, e nos fundos com áreas comuns do Condomínio que
+dividem com o lote 08 da quadra 08 do Loteamento Jardim Botânico.</span></p>
+
+<p class=MsoNormal style='text-align:justify;text-indent:35.4pt'><span
+style='font-family:"Times New Roman","serif"'>Cada um dos <b>apartamentos de
+final 2</b>, confrontam em sua integridade pela frente com áreas comuns do
+Condomínio, caixa de escadas, prumada, hall de circulação dos elevadores, caixa
+do elevador social 01, e com o apartamento de final 1 do andar, e elevador de
+serviço, lado direito com áreas comuns do Condomínio que dividem com os lotes
+15, 16, 17 e 18 da quadra 08 do Loteamento Jardim Botânico, lado esquerdo com
+áreas comuns do Condomínio que dividem com a Rua José Barbosa Neto, e nos
+fundos com áreas comuns do Condomínio.</span></p>
+
+<p class=MsoNormal style='text-align:justify'><span style='font-family:"Times New Roman","serif"'>            GARAGEM
+- A garagem coletiva do Condomínio Residencial estará situada no 1º pavimento
+ou 3º subsolo, no 2º pavimento ou 2º subsolo, e no 3º pavimento ou 1º subsolo,
+e comportará um total de 244 vagas cobertas, indeterminadas para veículos de
+tamanho adequado a respectiva vaga, assim distribuídas:- 57 vagas para veículos
+no 3º subsolo do Edifício 2, 101 vagas para veículos no 2º subsolo para os
+Edifícios 1 e 2, das quais 02 vagas são destinadas a pessoas portadoras de necessidades
+especiais, e 86 vagas para veículos no 1º subsolo para os Edifícios 1 e 2, 16
+vagas de motos e 79 armários.</span></p>
+
+<p class=MsoNormal style='text-align:justify;text-indent:35.4pt'><span
+style='font-family:"Times New Roman","serif"'>A garagem é coletiva,
+constituindo área de uso comum do condomínio.</span></p>
+
+<p class=MsoNormal style='text-align:justify'><span style='font-family:"Times New Roman","serif";
+color:red'>&nbsp;</span></p>
+
+<p class=MsoNormal style='text-align:justify'><span style='font-family:"Times New Roman","serif"'>2.
+4 )    A incorporação imobiliária do Condomínio está registrada sob o nº R.2/167.017,
+na matrícula nº <span style='letter-spacing:-.15pt'>167.017 </span>do 2º
+Oficial de Registro de Imóveis de Ribeirão Preto – SP, em 20/10/2015.</span></p>
+
+<p class=MsoNormal style='text-align:justify'><span style='font-family:"Times New Roman","serif";
+color:red'>&nbsp;</span></p>
+
+<p class=MsoNormal style='text-align:justify;text-indent:35.4pt'><span
+style='font-family:"Times New Roman","serif"'>2. 4. 1 )           Os documentos
+exigidos pela Lei n.º 4.591/64 encontram-se devidamente arquivados no 2º
+Oficial de Registro de Imóveis de Ribeirão Preto – SP, e estarão à disposição
+do COMPRADOR para consulta, obedecendo-se ao princípio da publicidade dos
+registros.</span></p>
+
+<p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt;text-align:
+justify'><b><span style='font-family:"Times New Roman","serif"'>CLÁUSULA
+TERCEIRA – DA PROMESSA DE COMPRA E VENDA</span></b></p>
+
+<p class=MsoNormal style='text-align:justify'><span style='font-family:"Times New Roman","serif"'>&nbsp;</span></p>
+
+<p class=MsoNormal style='text-align:justify'><span style='font-family:"Times New Roman","serif"'>3.
+1 )    Pelo presente instrumento e na melhor forma de direito, a VENDEDORA<i> </i>compromete-se
+e obriga-se a vender, em caráter irrevogável e irretratável, a fração ideal de
+terreno e as acessões que constituirão a futura unidade autônoma condominial,
+descrita e caracterizada na <i>Alínea B</i> do <i>Quadro Resumo</i>, parte
+integrante do Condomínio, entregando-a no prazo estipulado na <i>Alínea C </i>do
+<i>Quadro Resumo</i>, de acordo com as plantas, memoriais descritivos de
+acabamento e demais condições técnicas e de qualidade, mediante o pagamento da
+totalidade do preço estipulado na <i>Alínea D </i>do <i>Quadro Resumo </i>pelo
+COMPRADOR, e este, por sua vez, obriga-se a comprar esta futura unidade
+autônoma condominial, mediante o pagamento da totalidade do preço estipulado na
+<i>Alínea D </i>do <i>Quadro Resumo</i> para a VENDEDORA, de acordo com as
+cláusulas e condições neste pactuadas.</span></p>
+
+<p class=MsoNormal style='text-align:justify'><span style='font-family:"Times New Roman","serif"'>3.
+2 )    Esta promessa recíproca de venda e de compra é irrevogável e
+irretratável, não comportando, portanto, arrependimento de qualquer dos
+contratantes, que, assim, renunciam expressamente a essa faculdade, prevista no
+art. 420 do Código Civil, obrigando-se por si, seus herdeiros e sucessores, a
+qualquer título, ficando resguardadas as exceções expressamente dispostas neste
+mesmo Instrumento.</span></p>
+
+<p class=MsoNormal style='text-align:justify'><span style='font-family:"Times New Roman","serif"'>3.
+3 )    A referida unidade imobiliária autônoma é agora prometida em compra e
+venda &quot;ad corpus&quot;, isto é, como coisa certa e determinada, sendo
+meramente enunciativa a referência às dimensões, ficando assim convencionado
+que não haverá repercussão de espécie alguma, seja jurídica, econômica ou
+financeira, por diferença de até 1/20, para mais ou para menos, nas dimensões
+dos citados apartamentos e de suas correspondentes frações ideais de terreno,
+em consonância com o disposto no § 3º do art. 500 do Código Civil. </span></p>
+
+<p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt;text-align:
+justify'><span style='font-family:"Times New Roman","serif"'>&nbsp;</span></p>
+
+<p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt;text-align:
+justify'><b><span style='font-family:"Times New Roman","serif"'>CLÁUSULA QUARTA
+– DO PREÇO E DA FORMA DE PAGAMENTO</span></b></p>
+
+<p class=MsoNormal style='text-align:justify;text-indent:35.4pt'><span
+style='font-family:"Times New Roman","serif"'>&nbsp;</span></p>
+
+<p class=MsoNormal style='text-align:justify'><span style='font-family:"Times New Roman","serif"'>4.
+1 )    O COMPRADOR, expressamente, concorda com o preço definido na <i>Alínea D
+</i>do <i>Quadro Resumo</i>, a sua forma de pagamento e os encargos sobre ele
+incidentes, declarando-se ciente de que não integram o preço<i> </i>as
+seguintes despesas:</span></p>
+
+<p class=MsoListParagraph style='text-align:justify;text-indent:-18.0pt'><span
+style='font-family:Symbol'>·<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span></span><span style='font-family:"Times New Roman","serif"'>Implantação
+pré-operacional do Condomínio, a serem custeadas pelo COMPRADOR, na proporção
+da fração ideal que a unidade autônoma ora comprometida representa no
+Condomínio, e de responsabilidade exclusiva de sua futura administradora, as
+quais englobarão os seguintes serviços:</span></p>
+
+<ul style='margin-top:0cm' type=disc>
+ <li class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt;text-align:
+     justify'><a name="_DV_M127"></a><span style='font-family:"Times New Roman","serif"'>Seleção
+     e recrutamento do pessoal de acordo com a quantidade e tipos de função
+     indicados pela administradora do Condomínio, devendo essa seleção se dar
+     de acordo com um cronograma de contratações previamente aprovado e cujo
+     custo estará incluído no Orçamento Pré-Operacional adiante referido;</span></li>
+ <li class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt;text-align:
+     justify'><span style='font-family:"Times New Roman","serif"'>Treinamento
+     do pessoal contratado, de acordo com as técnicas e <i>know</i> <i>how</i>
+     da administradora de Condomínio;</span></li>
+ <li class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt;text-align:
+     justify'><span style='font-family:"Times New Roman","serif"'>Implantação
+     do sistema operacional da infra-estrutura condominial;</span></li>
+</ul>
+
+<p class=MsoListParagraph style='text-align:justify;text-indent:-18.0pt'><span
+style='font-family:Symbol'>·<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span></span><span style='font-family:"Times New Roman","serif"'>Outras
+despesas necessárias para o bom funcionamento do Condomínio, inclusive o
+enchimento dos reservatórios de água do Condomínio.</span></p>
+
+<p class=MsoNormal style='text-align:justify'><span style='font-family:"Times New Roman","serif"'>4.
+1. 1 )           Para a implantação pré-operacional do Condomínio, o COMPRADOR
+obriga-se a, independentemente da entrega das chaves da unidade autônoma ora
+comprometida, e na proporção da fração ideal que a unidade autônoma ora
+comprometida representa no Condomínio, contribuir com os recursos necessários
+para cobertura das despesas e encargos incorridos.  </span></p>
+
+<p class=MsoNormal style='text-align:justify'><span style='font-family:"Times New Roman","serif"'>4.
+1. 1. 1 )</span><span style='font-family:"Times New Roman","serif";color:black'>
+A VENDEDORA e a futura administradora do Condomínio elaborarão </span><span
+style='font-family:"Times New Roman","serif"'>planilha de orçamento de
+implantação pré-operacional do Condomínio, fixada em caráter estimativo, que
+conterá previsão dos gastos para implantação pré-operacional do Condomínio.</span></p>
+
+<p class=MsoNormal style='text-align:justify'><span style='font-family:"Times New Roman","serif"'>4.
+1. 2 )           As despesas de implantação pré-operacional do Condomínio serão
+arrecadadas do COMPRADOR pela VENDEDORA antes da entrega das chaves da unidade
+autônoma ora objetivada, em 03 (três) parcelas mensais iguais e sucessivas,
+sendo que sua respectiva prestação de contas se dará na primeira assembléia
+geral ordinária.</span></p>
+
+<p class=MsoNormal style='text-align:justify'><span style='font-family:"Times New Roman","serif"'>4.
+2 )    O preço pactuado para a presente promessa de venda e compra é o
+especificado na <i>Alínea D </i>do <i>Quadro Resumo</i>, que será pago da
+seguinte forma:</span></p>
+
+<p class=MsoListParagraphCxSpFirst style='text-align:justify;text-indent:-18.0pt'><span
+style='font-family:"Times New Roman","serif"'>A.<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;
+</span></span><span style='font-family:"Times New Roman","serif"'>O sinal será
+pago na forma constante na <i>Alínea E</i> do <i>Quadro Resumo</i>, cuja
+quitação ficará condicionada ao efetivo pagamento da parcela ali constante; e</span></p>
+
+<p class=MsoListParagraphCxSpMiddle style='text-align:justify'><span
+style='font-family:"Times New Roman","serif"'>&nbsp;</span></p>
+
+<p class=MsoListParagraphCxSpLast style='text-align:justify;text-indent:-18.0pt'><span
+style='font-family:"Times New Roman","serif"'>B.<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;
+</span></span><span style='font-family:"Times New Roman","serif"'>O saldo do
+preço indicado na <i>Alínea E </i>do <i>Quadro Resumo</i> será liquidado a
+prazo e em prestações, cujos valores e vencimentos estão determinados na <i>Alínea
+F</i> do <i>Quadro Resumo</i>, observando-se sempre os índices e formas de
+atualização monetária, previstos neste instrumento, especialmente no item 4.3
+abaixo. </span></p>
+
+<p class=MsoNormal style='text-align:justify'><span style='font-family:"Times New Roman","serif"'>4.
+3 )    As parcelas constantes na <i>Alíneas F</i> do <i>Quadro Resumo</i> serão
+atualizadas monetariamente da seguinte forma:</span></p>
+
+<p class=MsoListParagraphCxSpFirst style='margin-bottom:0cm;margin-bottom:.0001pt;
+text-align:justify;text-indent:-18.0pt'><span style='font-family:"Times New Roman","serif"'>A.<span
+style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span></span><span style='font-family:"Times New Roman","serif"'>As parcelas
+constantes na <i>Alínea F </i>do <i>Quadro Resumo</i> serão atualizadas pela
+variação acumulada do INCC/FGV (Índice Nacional da Construção Civil, publicado
+pela Fundação Getúlio Vargas), tomando-se por base o índice relativo ao segundo
+mês anterior ao de assinatura do presente contrato em relação ao índice do
+segundo mês anterior ao do efetivo pagamento da respectiva parcela.</span></p>
+
+<p class=MsoListParagraphCxSpMiddle style='margin-bottom:0cm;margin-bottom:
+.0001pt;text-align:justify'><span style='font-family:"Times New Roman","serif"'>&nbsp;</span></p>
+
+<p class=MsoListParagraphCxSpMiddle style='margin-bottom:0cm;margin-bottom:
+.0001pt;text-align:justify;text-indent:-18.0pt'><span style='font-family:"Times New Roman","serif";
+letter-spacing:-.15pt'>B.<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span></span><span style='font-family:"Times New Roman","serif"'>As parcelas
+cujo vencimento e pagamento ocorram após a disponibilidade das chaves da
+unidade ou da data da primeira assembléia condominial, o que ocorrer primeiro,
+estarão sujeitas, além da atualização monetária constante da letra “A” supra, à
+incidência de juros remuneratórios na proporção de 1% (um por cento) ao mês,
+calculados pelo Sistema Francês de Amortização, também denominado “Tabela
+Price”, tomando por base o mês da disponibilidade das chaves ou assembléia
+condominial, o que ocorrer primeiro.</span></p>
+
+<p class=MsoListParagraphCxSpLast style='margin-bottom:0cm;margin-bottom:.0001pt;
+text-align:justify'><span style='font-family:"Times New Roman","serif";
+letter-spacing:-.15pt'>&nbsp;</span></p>
+
+<p class=MsoNormal style='text-align:justify'><span style='font-family:"Times New Roman","serif"'>4.
+3. 1 )            Por força da Lei 10.931/2004, a aplicação dos reajustes do
+saldo do preço e a cobrança das parcelas far-se-ão mensalmente. Em decorrência
+das datas ajustadas neste instrumento para vencimento das prestações, as
+partes, por ocasião da emissão das respectivas cobranças, poderão não dispor do
+INCC/FGV, ou índice substitutivo respectivo, correspondente ao mês
+imediatamente anterior à data aprazada para pagamento, razão pela qual fica
+convencionado que referido índice será substituído pela variação percentual
+ocorrida entre o segundo e o terceiro mês, anterior ao mês de vencimento de
+cada parcela.</span></p>
+
+<p class=MsoNormal style='text-align:justify'><span style='font-family:"Times New Roman","serif"'>4.
+3. 1. 1 ) Após a divulgação dos índices aplicáveis, caso sejam constatadas
+diferenças, a maior ou a menor, decorrentes da forma de cálculo estabelecida no
+item 4.3.1 acima, estas serão pagas pelo COMPRADOR, ou devolvidas pela
+VENDEDORA, em uma única parcela que terá vencimento no mês imediatamente
+subseqüente, na mesma data de pagamento das prestações regulares, atualizadas
+monetariamente, conforme item 4.3.</span></p>
+
+<p class=MsoNormal style='text-align:justify'><span style='font-family:"Times New Roman","serif"'>4.
+3. 2 ) Na hipótese de extinção dos índices eleitos, ou caso eles deixem de ser
+divulgados, ou ainda em razão de proibição ou restrição legal de seu uso para
+fins de atualização monetária, ajustam as partes contratantes que a correção de
+todos os valores devidos em razão deste contrato, inclusive aqueles por ventura
+em atraso, deverá ser feita:</span></p>
+
+<p class=MsoListParagraph style='text-align:justify;text-indent:-18.0pt'><span
+style='font-family:"Times New Roman","serif"'>A.<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;
+</span></span><span style='font-family:"Times New Roman","serif"'>em
+substituição ao INCC/FGV, será utilizado o CUB-SINDUSCON/SP-H82N (Custo
+Unitário Básico, publicado pelo Sindicato da Indústria da Construção Civil do
+Estado de São Paulo), ou ainda, caso esse índice também não possa ser utilizado,
+o IPC/FIPE (Índice de Preços ao Consumidor, publicado pela Fundação Instituto
+de Pesquisas Econômicas); </span></p>
+
+<p class=MsoNormal style='text-align:justify'><span style='font-family:"Times New Roman","serif"'>4.
+3. 2. 1 ) Na hipótese de substituição do índice, a VENDEDORA deverá comunicar,
+com antecedência mínima de 10 (dez) dias, a aplicação da atualização monetária
+de acordo com o critério e pelo índice substitutivo previsto. Dita comunicação
+terá efeito meramente declaratório e ratificatório, razão pela qual a
+substituição do índice dar-se-á do fato que lhe deu origem e não a partir da
+sua comunicação ao COMPRADOR.</span></p>
+
+<p class=MsoNormal style='text-align:justify'><span style='font-family:"Times New Roman","serif"'>4.
+4 )    O Pagamento devera ser realizado na forma pactuada nas <i>Alíneas E e F</i>
+do Quadro Resumo. A aceitação expressa de recebimento por meio diverso pela
+VENDEDORA , deverá ser obtido de <u>maneira expressa e formal</u> , com
+antecedência mínima de 5(cinco) dias úteis, estando certo que a ressalva
+revestir-se-á de mera liberalidade da  VENDEDORA e não caracterizando novação
+ou alteração á forma de pagamento prevista na cláusula anterior, de sorte que,
+não obrigará à VENDEDORA à nova concessão. Somente à VENDEDORA caberá a
+indicação de qualquer meio diverso para pagamento das parcelas, por meio de
+notificação prévia ao COMPRADOR. O COMPRADOR, por sua vez, obriga-se a informar
+à VENDEDORA qualquer alteração no seu endereço no mesmo prazo acima citado.</span></p>
+
+<p class=MsoNormal style='text-align:justify'><span style='font-family:"Times New Roman","serif"'>            4.
+4. 1 )             Em caso de pagamento por meio de cheque, a quantia nele
+expressa somente será considerada paga após sua regular compensação.</span></p>
+
+<p class=MsoNormal style='text-align:justify'><span style='font-family:"Times New Roman","serif"'>            4.
+4. 1. 1 )  Os ônus decorrentes de eventuais dificuldades na compensação de
+cheques entregues em pagamento serão de inteira responsabilidade do COMPRADOR,
+que ficará sujeito, ainda, às penalidades previstas neste instrumento.</span></p>
+
+<p class=MsoNormal style='text-align:justify'><span style='font-family:"Times New Roman","serif"'>            4.
+4. 2 )  Em caso de recebimento de aviso bancário de cobrança pelo COMPRADOR, os
+pagamentos poderão ser efetuados em instituição bancária situada na praça onde
+se localizam os escritórios da VENDEDORA. </span></p>
+
+<p class=MsoNormal style='text-align:justify'><span style='font-family:"Times New Roman","serif"'>            4.
+4. 2. 1 ) A falta de recebimento de aviso bancário de cobrança não exime o
+COMPRADOR de efetuar quaisquer dos pagamentos previstos neste instrumento, nem
+constitui justificativa para atraso em suas liquidações, visto que todas as
+informações necessárias poderão ser obtidas com antecedência nos escritórios da
+VENDEDORA. </span></p>
+
+<p class=MsoNormal style='text-align:justify'><span style='font-family:"Times New Roman","serif"'>            4.
+4. 3 )  Não serão permitidos pagamentos por meio de depósito bancário, ordem de
+pagamento, ordem de crédito, “DOC”, “TED” e afins, diretamente em conta
+corrente da VENDEDORA, sob pena de ser desconsiderado o pagamento efetuado.</span></p>
+
+<p class=MsoNormal style='text-align:justify'><span style='font-family:"Times New Roman","serif"'>4.
+5 )     Na hipótese de antecipação do pagamento de parte ou da integralidade do
+saldo do preço contratado, serão aplicados todos os dispositivos previstos
+acima para atualização ou complementação do valor das parcelas e/ou parcela
+eventualmente antecipada, calculada <i>&quot;pro rata die&quot;</i> até a data
+da antecipação. </span></p>
+
+<p class=MsoNormal style='text-align:justify'><span style='font-family:"Times New Roman","serif"'>4.
+5. 1 ) A antecipação do pagamento de parte ou da integralidade do saldo do
+preço contratado deverá ser efetuada sobre as parcelas cujos vencimentos
+estejam em ordem cronológica inversa à data do pagamento da antecipação, ou
+seja, sempre da última parcela para a primeira, de forma a não haver
+interrupção na seqüência dos vencimentos das parcelas remanescentes do saldo do
+preço.</span></p>
+
+<p class=MsoNormal style='text-align:justify'><span style='font-family:"Times New Roman","serif"'>4.
+5. 2 ) O pagamento da antecipação deverá ocorrer até o dia 10 (dez) de cada
+mês, e a amortização não poderá ser inferior a 10% (dez por cento) do saldo
+devedor do preço, sendo certo ainda que nenhuma parcela poderá ser antecipada
+senão em sua totalidade, não se admitindo, portanto, o fracionamento de
+qualquer parcela.</span></p>
+
+<p class=MsoNormal style='text-align:justify'><span style='font-family:"Times New Roman","serif"'>4.
+6 )  O COMPRADOR não poderá pagar qualquer parcela do saldo do preço enquanto
+não tiverem sido pagas e quitadas aquelas que estiverem vencidas anteriormente.
+<span style='letter-spacing:-.15pt'>Nos meses em que se verifica­rem
+vencimentos simultâneos de prestações do saldo do preço, fica assegu­rado à
+VENDEDORA o direito de recusar o recebi­mento de qualquer delas sem que se
+verifique, concomi­tantemente, o pagamento da outra.</span></span></p>
+
+<p class=MsoNormal style='text-align:justify'><span style='font-family:"Times New Roman","serif";
+letter-spacing:-.15pt'>          4. 6. 1 ) O recibo de pagamento da última
+parcela vencida não significa quitação da anterior, que deverá ser sempre
+comprovada, quando exigido.</span></p>
+
+<p class=MsoNormal style='text-align:justify'><span style='font-family:"Times New Roman","serif"'>4.
+7 ) Na hipótese da VENDEDORA aceitar, temporariamente e por sua mera
+liberalidade, sem que tal fato caracterize novação, que o COMPRADOR efetue
+quaisquer pagamentos sem a devida atualização monetária ou acréscimos devidos,
+ainda que por congelamento, fica desde logo ajustado que:</span></p>
+
+<p class=MsoListParagraphCxSpFirst style='text-align:justify;text-indent:-18.0pt'><span
+style='font-family:"Times New Roman","serif"'>A.<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;
+</span></span><span style='font-family:"Times New Roman","serif"'>O saldo
+devedor continuará sendo reajustado monetariamente;</span></p>
+
+<p class=MsoListParagraphCxSpMiddle style='text-align:justify;text-indent:-18.0pt'><span
+style='font-family:"Times New Roman","serif"'>B.<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;
+</span></span><span style='font-family:"Times New Roman","serif"'>A cada mês, o
+COMPRADOR estará amortizando menos do que deveria;</span></p>
+
+<p class=MsoListParagraphCxSpLast style='text-align:justify;text-indent:-18.0pt'><span
+style='font-family:"Times New Roman","serif"'>C.<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;
+</span></span><span style='font-family:"Times New Roman","serif"'>A diferença
+entre o valor real de cada parcela e o de sua parcial amortização será cobrado
+pela VENDEDORA tão logo se encerre, de modo direto ou indireto, o congelamento
+ou quando da entrega das chaves, de transmissão do domínio ou ainda da quitação
+do preço.</span></p>
+
+<p class=MsoNormal style='text-align:justify'><span style='font-family:"Times New Roman","serif"'>4.
+8 ) A data do vencimento das parcelas do preço, bem como sua exigibilidade, não
+tem qualquer vínculo com o andamento ou conclusão da obra prometida.</span></p>
+
+<p class=MsoNormal style='text-align:justify'><span style='font-family:"Times New Roman","serif"'>4.
+9 )  O COMPRADOR, neste ato, toma conhecimento e reconhece que o valor constante
+do item D do quadro resumo, se refere ao preço pago pela unidade adquirida pelo
+presente instrumento de promessa de compra e venda havido entre as partes, bem
+como que o valor constante do item G do quadro resumo refere-se à corretagem,
+vez que concorda, neste ato, com o pagamento da mesma.</span></p>
+
+<p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt;text-align:
+justify'><b><span style='font-family:"Times New Roman","serif"'>&nbsp;</span></b></p>
+
+<p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt;text-align:
+justify'><b><span style='font-family:"Times New Roman","serif"'>CLÁUSULA QUINTA
+– DA AUTORIZAÇÃO PARA INSTITUIÇÃO DE GARANTIA REAL</span></b></p>
+
+<p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt;text-align:
+justify'><b><span style='font-family:"Times New Roman","serif"'>&nbsp;</span></b></p>
+
+<p class=MsoNormal style='text-align:justify'><span style='font-family:"Times New Roman","serif"'>5.
+1 )    O COMPRADOR declara ter sido informado pela VENDEDORA, e concorda
+expressamente com a possibilidade de captação de recursos junto a agente
+financeiro para a produção e construção do empreendimento imobiliário aqui
+tratado.</span></p>
+
+<p class=MsoNormal style='text-align:justify'><span style='font-family:"Times New Roman","serif"'>            5.
+1. 1 ) A contratação do financiamento acarreta a alienação fiduciária de bem
+imóvel em garantia, a hipoteca ou outra modalidade de garantia incidente sobre
+a totalidade do terreno onde será erigido o empreendimento, garantia essa que
+engloba as benfeitorias existentes, bem como as acessões que lhe sobrevierem
+até a conclusão das obras, inclusive sobre a fração ideal e acessões ora
+objetivada e os direitos creditórios decorrentes deste instrumento, com o que o
+COMPRADOR concorda e autoriza expressamente, sendo, ainda, que se obriga a
+subscrever os documentos e alterações que se fizerem necessárias, devendo, se
+for o caso, ser notificado pela VENDEDORA com 10 (dez) dias de antecedência.</span></p>
+
+<p class=MsoNormal style='text-align:justify'><span style='font-family:"Times New Roman","serif"'>5.
+2 ) A VENDEDORA poderá ceder e transferir os direitos creditórios decorrentes
+deste contrato à agente financeiro, mediante operação de securitização de
+recebíveis, desconto de títulos, cessão de créditos, ou outra modalidade,
+responsabilizando-se perante o COMPRADOR por informar ao cessionário sobre
+qualquer alteração quanto ao crédito cedido, quer por antecipação de
+pagamentos, quer por rescisão ou qualquer outro ato modificativo de direitos
+que venham a ser estipulados pelas partes.</span></p>
+
+<p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt;text-align:
+justify'><b><span style='font-family:"Times New Roman","serif"'>&nbsp;</span></b></p>
+
+<p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt;text-align:
+justify'><b><span style='font-family:"Times New Roman","serif"'>CLÁUSULA SEXTA
+- DO FINANCIAMENTO E DE SEU EVENTUAL REFINANCIAMENTO PARCIAL</span></b></p>
+
+<p class=MsoNormal style='text-align:justify'><span style='font-family:"Times New Roman","serif";
+letter-spacing:-.15pt'>&nbsp;</span></p>
+
+<p class=MsoNormal style='text-align:justify'><span style='font-family:"Times New Roman","serif";
+letter-spacing:-.15pt'>6. 1 )  A VENDEDORA poderá pleitear, a seu exclusivo
+critério, concessão de financiamento à produção, o que implicará a outorga das
+seguintes garantias, sem prejuízo de outras que venham a ser convencionadas com
+o COMPRADOR:</span></p>
+
+<p class=MsoListParagraphCxSpFirst style='margin-left:46.35pt;text-align:justify;
+text-indent:-18.0pt'><span style='font-family:"Times New Roman","serif";
+letter-spacing:-.15pt'>A.<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span></span><span style='font-family:"Times New Roman","serif";letter-spacing:
+-.15pt'>Hipoteca, abrangendo todo o terreno, já descrito e caracterizado, bem
+como os melhoramentos, construções, acessões e instalações, que se lhe forem
+ser acrescidas o que não impede a destinação do imóvel à incorporação
+imobiliária;</span></p>
+
+<p class=MsoListParagraphCxSpLast style='margin-left:46.35pt;text-align:justify;
+text-indent:-18.0pt'><span style='font-family:"Times New Roman","serif";
+letter-spacing:-.15pt'>B.<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span></span><span style='font-family:"Times New Roman","serif";letter-spacing:
+-.15pt'>Cessão fiduciária de todos os direitos creditórios resultantes da
+alienação do empreendimento ou de qualquer uma de suas unidades autônomas.</span></p>
+
+<p class=MsoNormal style='text-align:justify'><span style='font-family:"Times New Roman","serif"'>6.
+2 )  A parcela referida na Alínea f.4 do Quadro Resumo, a critério da
+VENDEDORA, poderá ser paga, pelo COMPRADOR, mediante eventual refinanciamento a
+ser obtido diretamente pelo COMPRADOR, junto à um agente ou instituição
+financeira ou, ainda, com recursos próprios.</span></p>
+
+<p class=MsoNormal style='text-align:justify'><span style='font-family:"Times New Roman","serif"'>6.
+3 )  Declara o COMPRADOR que concorda, expressamente, com as garantias exigidas
+para o financiamento à produção, declarando, outrossim, estar ciente de que:</span></p>
+
+<p class=MsoListParagraphCxSpFirst style='text-align:justify;text-indent:-18.0pt'><span
+style='font-family:"Times New Roman","serif"'>A.<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;
+</span></span><span style='font-family:"Times New Roman","serif"'>O imóvel que
+está adquirindo será hipotecado ao agente financeiro, bem como que os direitos
+creditórios da venda das unidades do empreendimento serão a ele cedidos, como
+garantia do pagamento da dívida que a VENDEDORA contrairá com referida
+instituição, para a construção do Condomínio, onde se situa a unidade autônoma
+objeto deste contrato;</span></p>
+
+<p class=MsoListParagraphCxSpLast style='text-align:justify;text-indent:-18.0pt'><span
+style='font-family:"Times New Roman","serif"'>B.<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;
+</span></span><span style='font-family:"Times New Roman","serif"'>A hipoteca,
+como já foi dito, abrangerá o terreno e cada uma das unidades residenciais do Condomínio,
+incluindo-se o imóvel que está adquirindo.</span></p>
+
+<p class=MsoNormal style='text-align:justify'><span style='font-family:"Times New Roman","serif"'>6.
+4 )  Nos termos do contrato a ser celebrado entre a VENDEDORA e o agente
+financeiro, o resgate da dívida poderá ser efetuado em moeda corrente do país
+e/ou com créditos hipotecários.</span></p>
+
+<p class=MsoNormal style='text-align:justify;text-indent:18.0pt'><span
+style='font-family:"Times New Roman","serif"'>6. 4. 1 )  Se ajustado com o
+credor hipotecário, o pagamento, pela VENDEDORA mediante créditos hipotecários,
+este se formalizará por intermédio de refinanciamento (também chamado de
+repasse a mutuário final) ao COMPRADOR e aos adquirentes das demais unidades
+autônomas a ser eventualmente concedido pelo banco, observado o disposto no
+item 6.2.</span></p>
+
+<p class=MsoNormal style='text-align:justify;text-indent:18.0pt'><span
+style='font-family:"Times New Roman","serif"'>6. 4. 2 ) Se concedido o
+refinanciamento (ou repasse a mutuário final), o COMPRADOR tem ciência de que:</span></p>
+
+<p class=MsoListParagraphCxSpFirst style='margin-left:64.35pt;text-align:justify;
+text-indent:-18.0pt'><span style='font-family:"Times New Roman","serif"'>A.<span
+style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp; </span></span><span
+style='font-family:"Times New Roman","serif"'>Deverá comprovar renda familiar
+suficiente para atender às exigências do agente de crédito imobiliário, dentro
+do prazo de trinta (30) dias, contados da solicitação da VENDEDORA;</span></p>
+
+<p class=MsoListParagraphCxSpMiddle style='margin-left:64.35pt;text-align:justify;
+text-indent:-18.0pt'><span style='font-family:"Times New Roman","serif"'>B.<span
+style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp; </span></span><span
+style='font-family:"Times New Roman","serif"'>Deverá apresentar, no prazo de
+trinta (30) dias, contados da solicitação da VENDEDORA, toda documen­tação
+exigida pelo credor hipotecário, bem como praticar outros atos necessários à
+concessão do refinanciamento, inclusive a comprovação da renda familiar exigida
+pelo Banco;</span></p>
+
+<p class=MsoListParagraphCxSpMiddle style='margin-left:64.35pt;text-align:justify;
+text-indent:-18.0pt'><span style='font-family:"Times New Roman","serif"'>C.<span
+style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp; </span></span><span
+style='font-family:"Times New Roman","serif"'>Será devidamente notificado por
+meio de carta ou telegrama, a assinar o contrato e/ou escritura de
+refinanciamento correspondente, correndo por sua conta o pagamento das despesas
+da referida escritura, impostos de transmissão &quot;inter vivos&quot;,
+impostos sobre operações financeiras e outras que venham a se tornar exigíveis,
+inclusive taxas cobradas pelo Banco para concessão do refinanciamento, mesmo
+que imputadas legal ou contratualmente à VENDEDORA, tais como taxa de inscrição
+e expediente, taxa de abertura de crédito, taxa de deságio, seguros e outros;</span></p>
+
+<p class=MsoListParagraphCxSpMiddle style='margin-left:64.35pt;text-align:justify;
+text-indent:-18.0pt'><span style='font-family:"Times New Roman","serif"'>D.<span
+style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp; </span></span><span
+style='font-family:"Times New Roman","serif"'>Somente poderá fazer jus ao
+refinanciamento se, na época devida, preencher­ todos os requisitos previstos
+nas normas do Sistema Financeiro da Habitação - SFH, bem como nas normas
+internas do Banco, vigentes à época do repasse, notadamente quanto ao cadastro
+e ao valor, prazo e taxas de juros, comprovação e componentes de renda
+familiar;</span></p>
+
+<p class=MsoListParagraphCxSpMiddle style='margin-left:64.35pt;text-align:justify;
+text-indent:-18.0pt'><span style='font-family:"Times New Roman","serif"'>E.<span
+style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span><span
+style='font-family:"Times New Roman","serif"'>O valor do mútuo e, portanto, da
+parcela do eventual refinanciamento, será sujeito à atualização monetária
+mediante aplicação do mesmo índice, data-base e idêntica periodicidade
+contratual estipulada para pagamento das prestações do mútuo, qual seja, índice
+de atualização dos saldos dos depósitos em Caderneta de Poupança - Pessoa
+Física no dia que for ajustado com o credor mutuante e com periodicidade máxima
+mensal;</span></p>
+
+<p class=MsoListParagraphCxSpLast style='margin-left:64.35pt;text-align:justify;
+text-indent:-18.0pt'><span style='font-family:"Times New Roman","serif"'>F.<span
+style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span><span
+style='font-family:"Times New Roman","serif"'>O pagamento da parcela da <i>Alínea
+f.4</i> do <i>Quadro Resumo</i> será efetuado, então, de uma só vez, mediante recursos
+advindos do refinanciamento, observado o disposto neste capítulo.</span></p>
+
+<p class=MsoNormal style='text-align:justify;text-indent:35.4pt'><span
+style='font-family:"Times New Roman","serif"'>6. 4. 3 )  Caso o refinanciamento
+supra mencionado não seja obtido até o prazo antes mencionado, este poderá
+ficar prorrogado, a critério da VENDEDORA, por mais trinta (30) dias, ficando o
+COMPRADOR, neste caso, sujeito à multa contratual equivalente a dois por cento
+(2%) ao mês, calculada sobre o valor do refinanciamento atualizado, de acordo
+com o estipulado neste contrato, independentemente das demais estipulações e
+cominações.</span></p>
+
+<p class=MsoNormal style='text-align:justify'><span style='font-family:"Times New Roman","serif"'>6.
+5 )  Se concedido o financiamento à produção, e não obtido, posteriormente, o
+refinanciamento ao COMPRADOR, a critério da VENDEDORA, serão observadas as
+seguintes conseqüências:</span></p>
+
+<p class=MsoListParagraphCxSpFirst style='margin-left:64.35pt;text-align:justify;
+text-indent:-18.0pt'><span style='font-family:"Times New Roman","serif"'>A.<span
+style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp; </span></span><span
+style='font-family:"Times New Roman","serif"'>Se por responsabilidade exclusiva
+do COMPRADOR, ele deverá pagar essa parcela do preço de uma só vez e com
+recursos próprios, no prazo inicialmente ajustada para assinatura do
+refinanciamento, observada a correção monetária prevista no item 4.3;</span></p>
+
+<p class=MsoListParagraphCxSpLast style='margin-left:64.35pt;text-align:justify;
+text-indent:-18.0pt'><span style='font-family:"Times New Roman","serif"'>B.<span
+style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp; </span></span><span
+style='font-family:"Times New Roman","serif"'>Se por responsabilidade exclusiva
+da VENDEDORA, o COMPRADOR pagará o valor dessa parcela em doze (12) prestações
+mensais, iguais e sucessivas, vencendo-se a primeira dentro de trinta (30)
+dias, contados da data inicialmen­te ajustada para a assinatura do
+refinanciamento e as demais no mesmo dia dos meses subseqüentes, até final
+liquidação, observados os mesmos critérios de correção monetária, de
+periodicidade de reajuste e de juros estipulados na forma do item 4.3.</span></p>
+
+<p class=MsoNormal style='text-align:justify;text-indent:35.4pt'><span
+style='font-family:"Times New Roman","serif"'>6. 5. 1 )  Se obtido o
+financiamento à produção, mas  não podendo ser utilizado para reajuste das
+parcelas deste contrato o índice contratado com o agente financeiro, tal
+reajuste será calculado de acordo com o índice estabelecido no item  4.3, letra
+“a”, ou, em tendo sido extinto, no item 4.3.2, alínea “a”.</span></p>
+
+<p class=MsoNormal style='text-align:justify'><span style='font-family:"Times New Roman","serif"'>6.
+6 )  Se, obtido o refinanciamento, o COMPRADOR não tiver quitado o remanescente
+do preço da unidade objeto deste contrato, ou caso o valor do refinanciamento
+concedido pelo agente de crédito imobiliá­rio seja insuficiente, por qualquer
+motivo, o COMPRADOR assinará na ocasião do refinanciamento, confissão de
+dívida, reconhecendo o saldo do débito perante a VENDEDORA.</span></p>
+
+<p class=MsoNormal style='text-align:justify'><span style='font-family:"Times New Roman","serif"'>6.
+7 )  Trinta (30) dias antes da assinatura da confissão de dívida, o COMPRADOR
+deverá indicar duas (2) pessoas idôneas, proprietárias de imóvel desonerado e
+penhorável em Ribeirão Preto-SP e com renda mensal equivalente a, no mínimo,
+cinco por cento (5%) do valor do débito, com capacidade financeira adequada, a
+critério da VENDEDORA, as quais avalizará os títulos representati­vos do
+remanescente da dívida, comprometendo-se os avalistas e seus cônjuges, se
+houver, a assinar mencionada confissão de dívida, na qualidade de fiadores,
+solidariamente responsáveis pelas obrigações contratuais.</span></p>
+
+<p class=MsoNormal style='text-align:justify;text-indent:35.4pt'><span
+style='font-family:"Times New Roman","serif"'>6. 7. 1 )  Assinada a confissão
+de dívida, as notas promissórias representativas das prestações vincendas terão
+caráter “pro soluto” em relação ao preço de alienação da unidade autônoma e
+caráter “pro solvendo” quanto às prestações da dívida então confessada.</span></p>
+
+<p class=MsoNormal style='text-align:justify;text-indent:35.4pt'><span
+style='font-family:"Times New Roman","serif"'>6. 7. 2 ) Na aludida confissão de
+dívida, para efeitos de aplicação e cobrança da correção monetária anual ou da
+menor periodicidade admitida, valerá como termo inicial a data do presente
+compromisso de venda e compra.</span></p>
+
+<p class=MsoNormal style='text-align:justify'><span style='font-family:"Times New Roman","serif"'>6.
+8 )  Caso os cadastros dos fiadores não sejam aprovados pela VENDEDORA, ficará
+o COMPRADOR obrigado a quitar a parcela do preço referida na <i>Alínea f.4</i>
+do <i>Quadro Resumo</i>, que se apurar por ocasião da assinatura do contrato de
+refinanciamento, sempre observada a correção monetária, prevista no item 4.3. </span></p>
+
+<p class=MsoNormal style='text-align:justify'><span style='font-family:"Times New Roman","serif"'>6.
+9 )  Se o Banco conceder e o COMPRADOR aceitar, o valor do refinanciamento
+poderá ser superior àquele originalmente estabelecido; essa diferença a maior
+será abatida das últimas (de trás para a frente) prestações do preço, vincendas
+após a assinatura desse refinanciamento. </span></p>
+
+<p class=MsoNormal style='text-align:justify'><b><span style='font-family:"Times New Roman","serif"'>&nbsp;</span></b></p>
+
+<p class=MsoNormal style='text-align:justify'><b><span style='font-family:"Times New Roman","serif"'>CLÁUSULA
+SÉTIMA – DA CONSTRUÇÃO</span></b></p>
+
+<p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt;text-align:
+justify'><span style='font-family:"Times New Roman","serif"'>&nbsp;</span></p>
+
+<p class=MsoNormal style='text-align:justify'><span style='font-family:"Times New Roman","serif"'>7.
+1 )  A execução da obra poderá ser realizada pela VENDEDORA ou por empresas do
+ramo da construção civil que esta contratar, em conformidade com as plantas e
+as especificações integrantes do memorial descritivo.</span></p>
+
+<p class=MsoNormal style='text-align:justify'><span style='font-family:"Times New Roman","serif"'>            7.
+1. 1 ) O COMPRADOR declara ter sido informado sobre a possibilidade de
+modificações no projeto em virtude de imposição de normas técnicas usualmente
+adotadas, ou por determinação ou exigência dos poderes públicos, Corpo de
+Bombeiros ou de empresas concessionárias de serviços públicos, supervenientes à
+data da aprovação do projeto, as quais não darão ao COMPRADOR, o direito de
+pleitear qualquer compensação ou indenização, desde que tais modificações
+impositivas não desfigurem a essência da unidade e do condomínio aqui
+objetivados. </span></p>
+
+<p class=MsoNormal style='text-align:justify'><span style='font-family:"Times New Roman","serif";
+letter-spacing:-.15pt'>            7. 1. 2 )  Por razões de segurança, fica
+vedada ao COMPRADOR qualquer interferên­cia, direta ou indireta, na obra.</span></p>
+
+<p class=MsoNormal style='text-align:justify'><span style='font-family:"Times New Roman","serif";
+letter-spacing:-.15pt'>            7. 1. 3 )            Não será permitida
+visita do COMPRADOR à obra, a não ser em casos excepcionais, com autorização
+escrita da construtora, com hora e data marcada com pelo menos cinco (5) dias
+de antecedência e sempre na presença do encarregado da obra. Estas
+autorizações, em hipótese alguma, serão concedidas durante os 120 dias (cento e
+vinte) dias anteriores à data de entrega da obra, período em que os serviços
+finais ficariam prejudicados.</span></p>
+
+<p class=MsoNormal style='text-align:justify'><span style='font-family:"Times New Roman","serif"'>7.
+2 )  Considerar-se-á concluída a obra por ocasião da expedição do Auto de
+Conclusão (&quot;habite-se&quot;), mesmo que parcial, cuja obtenção ficará a
+cargo da VENDEDORA, ou ainda, pela comunicação por escrito da VENDEDORA ao
+COMPRADOR que a unidade se encontra em condições de habitabilidade, desde que
+atendidas as exigências técnicas e legais, ressalvando-se os pequenos serviços
+a serem realizados nas áreas comuns do edifício. </span></p>
+
+<p class=MsoNormal style='text-align:justify'><span style='font-family:"Times New Roman","serif"'>            7.
+2. 1 ) No prazo previsto para a conclusão da obra, tanto do empreendimento,
+como da unidade autônoma ora transacionada, não está computado: a carência
+estabelecida no item 7.2.2 abaixo, o prazo para execução de jardim, instalação
+do condomínio de utilização, a legalização do empreendimento perante os órgãos
+públicos, as ligações definitivas dos serviços públicos e a averbação da
+construção. </span></p>
+
+<p class=MsoNormal style='text-align:justify'><span style='font-family:"Times New Roman","serif"'>            7.
+2. 2 )  Observar-se-á quanto ao prazo previsto para conclusão da obra, tanto da
+unidade autônoma, como do empreendimento, o <u>prazo de carência de 180 (cento
+e oitenta) dias</u>, sem qualquer exigência, independentemente da ocorrência
+das hipóteses previstas no Item 7.3 a seguir.</span></p>
+
+<p class=MsoNormal style='text-align:justify'><span style='font-family:"Times New Roman","serif"'>7.
+3 )  Ocorrendo atrasos decorrentes de motivos de caso fortuito, força maior,
+embargos judiciais ou administrativos nas obras não imputáveis à VENDEDORA,
+prorrogar-se-á o prazo de entrega das unidades por tantos dias quantos forem os
+de retardamento causado por tais eventos.</span></p>
+
+<p class=MsoNormal style='text-align:justify'><span style='font-family:"Times New Roman","serif"'>7.
+4 )  O COMPRADOR somente poderá efetuar ou solicitar alterações, modificações,
+substituições ou acréscimos, de qualquer natureza, na unidade autônoma
+residencial até a data de <u>30 de junho de 2.016</u>, mediante prévia análise
+pela VENDEDORA e pela empresa que esteja conduzindo os respectivos serviços de
+construção, desde que:</span></p>
+
+<p class=MsoListParagraphCxSpFirst style='margin-top:0cm;margin-right:0cm;
+margin-bottom:0cm;margin-left:48.0pt;margin-bottom:.0001pt;text-align:justify;
+text-indent:-18.0pt'><span style='font-family:"Times New Roman","serif"'>A.<span
+style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span></span><span style='font-family:"Times New Roman","serif"'>Sejam viáveis
+tecnicamente;</span></p>
+
+<p class=MsoListParagraphCxSpMiddle style='margin-top:0cm;margin-right:0cm;
+margin-bottom:0cm;margin-left:48.0pt;margin-bottom:.0001pt;text-align:justify;
+text-indent:-18.0pt'><span style='font-family:"Times New Roman","serif"'>B.<span
+style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span></span><span style='font-family:"Times New Roman","serif"'>Sejam
+solicitados nos prazos permitidos pela VENDEDORA e pela empresa que execute as
+obras do empreendimento, de forma que não prejudiquem o cronograma das obras do
+mesmo, bem como possam ser executados sem prejuízo ao andamento das obras
+gerais do empreendimento e das unidades contíguas em prejuízo de seu prazo e de
+seu custo;</span></p>
+
+<p class=MsoListParagraphCxSpLast style='margin-top:0cm;margin-right:0cm;
+margin-bottom:0cm;margin-left:48.0pt;margin-bottom:.0001pt;text-align:justify;
+text-indent:-18.0pt'><span style='font-family:"Times New Roman","serif"'>C.<span
+style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span></span><span style='font-family:"Times New Roman","serif"'>O COMPRADOR
+arque com o custo da implementação das solicitações os quais deverão ser objeto
+de contratação apartada com a empresa que conduzirá a construção do
+empreendimento compreendido em tais custos o fornecimento de materiais e
+serviços, acrescidos dos impostos, encargos sociais, taxas administrativas e
+demais encargos, compensados, porém os custos de fornecimentos e serviços que
+eventualmente não sejam implementados em razão das solicitações do COMPRADOR.</span></p>
+
+<p class=MsoNormal style='text-align:justify'><span style='font-family:"Times New Roman","serif"'>            7.
+4. 1 )  A VENDEDORA negará qualquer pedido de alteração de sua unidade autônoma
+que porventura venha a afetar o prazo de construção do empreendimento, altere
+em qualquer aspecto áreas de uso comum, vagas de garagem, depósitos, fachadas e
+demais áreas que direta ou indiretamente intervenham na área comum ou privativa
+de outros condôminos.</span></p>
+
+<p class=MsoNormal style='text-align:justify'><span style='font-family:"Times New Roman","serif"'>            7.
+4. 2 )  Qualquer alteração, modificação, substituição ou acréscimo na unidade
+autônoma, depois da entrega das chaves e antes do pagamento integral do preço,
+deverá ser aprovada expressamente pela VENDEDORA, sob pena de caracterização de
+infração contratual.</span></p>
+
+<p class=MsoNormal style='text-align:justify'><span style='font-family:"Times New Roman","serif"'>            7.
+4. 3 )  Após a entrega das chaves da unidade autônoma e da quitação integral do
+preço, qualquer alteração, modificação, substituição ou acréscimos na unidade
+autônoma promovida pelo COMPRADOR deverá observar as normas condominiais
+vigentes e a legislação e posturas determinados pelo Poder Público, sendo que o
+COMPRADOR deverá subordinar essas alterações à análise técnica e assunção de
+responsabilidade por profissional habilitado, com recolhimento de Anotação de
+Responsabilidade Técnica, que responda pelas alterações eventualmente
+empreendidas, incluindo projeto e execução, inclusive em aspectos estruturais,
+de instalações, vedações e demais garantias. O COMPRADOR ficará responsável
+perante terceiros por atos e omissões decorrentes das alterações implementadas.</span></p>
+
+<p class=MsoNormal style='text-align:justify'><span style='font-family:"Times New Roman","serif"'>            7.
+4. 3. 1 )  A implementação de alterações na unidade autônoma pelo COMPRADOR,
+sem a observância das normas condominiais vigentes e da legislação e posturas
+determinados pelo Poder Público, implicará na perda das garantias construtivas
+descritas no manual do proprietário a ser entregue no ato do recebimento das
+chaves do imóvel.</span></p>
+
+<p class=MsoNormal style='text-align:justify'><span style='font-family:"Times New Roman","serif"'>7.
+5 )  Na ocasião do recebimento das chaves da unidade autônoma, o COMPRADOR
+deverá efetuar a vistoria da unidade autônoma, obedecendo ao seguinte
+procedimento:</span></p>
+
+<p class=MsoListParagraphCxSpFirst style='text-align:justify;text-indent:-18.0pt'><span
+style='font-family:"Times New Roman","serif"'>A.<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;
+</span></span><span style='font-family:"Times New Roman","serif"'>O COMPRADOR
+deverá assinar uma ficha de constatação, mencionando a inexistência ou a
+existência de reparos a serem sanados; e,</span></p>
+
+<p class=MsoListParagraphCxSpLast style='text-align:justify;text-indent:-18.0pt'><span
+style='font-family:"Times New Roman","serif"'>B.<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;
+</span></span><span style='font-family:"Times New Roman","serif"'>Inexistindo
+reparos, ou uma vez estes providenciados, e estando o COMPRADOR em dia com
+todas as obrigações assumidas neste instrumento, será formalizada a entrega das
+chaves da unidade autônoma, mediante a assinatura de termo de entrega.</span></p>
+
+<p class=MsoNormal style='text-align:justify'><span style='font-family:"Times New Roman","serif"'>            7.
+5. 1 )  Fica certo e ajustado que a existência de pequenos reparos, quer na
+unidade compromissada, quer nas áreas comuns do condomínio, que não impeçam a
+habitabilidade do condomínio e da unidade, não poderão servir de fundamento à
+recusa de recebimento das chaves pelo COMPRADOR.</span></p>
+
+<p class=MsoBodyText style='line-height:115%'><span style='line-height:115%;
+font-weight:normal'>7. 6 )  Após a entrega das chaves ao COMPRADOR, a VENDEDORA
+poderá ingressar na unidade autônoma para efetuar eventuais serviços de
+manutenção existentes, bem como aqueles necessários às áreas comuns ou unidades
+confinantes, ou aqueles cuja ocorrência tenha sido ocasionada pela unidade
+transacionada.</span></p>
+
+<p class=MsoNormal style='text-align:justify'><span style='font-family:"Times New Roman","serif"'>            7.
+6. 1 )  A VENDEDORA obriga-se a prestar por si ou por terceiros, durante o
+prazo de 6 (seis) meses, a contar da data da averbação da construção e registro
+da especificação do condomínio junto ao Oficial de Registro de Imóveis
+competente, ainda que parcial, os serviços de assistência ao condomínio, na
+execução de eventuais serviços de revisão, ajustes, consertos ou reparos, quer
+nas partes comuns, quer nas unidades autônomas, desde que, tais defeitos não
+sejam decorrentes de mau uso ou de falta de conservação ou manutenção. No caso
+de unidade autônoma, o prazo contar-se-á da entrega efetiva da unidade ao
+COMPRADOR.</span></p>
+
+<p class=MsoBodyText style='line-height:115%'><span style='line-height:115%;
+font-weight:normal'>7. 7 )  A VENDEDORA ficará eximida de qualquer
+responsabilidade por atos ou omissões do COMPRADOR:</span></p>
+
+<p class=MsoBodyText style='margin-left:71.4pt;text-indent:-18.0pt;line-height:
+115%'><span style='line-height:115%;font-weight:normal'>A.<span
+style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp; </span></span><span
+style='line-height:115%;font-weight:normal'>Se realizados em desacordo com as
+recomendações constantes no manual do proprietário da unidade autônoma;</span></p>
+
+<p class=MsoBodyText style='margin-left:71.4pt;text-indent:-18.0pt;line-height:
+115%'><span style='line-height:115%;font-weight:normal'>B.<span
+style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp; </span></span><span
+style='line-height:115%;font-weight:normal'>Se o COMPRADOR não realizar a
+manutenção preventiva e corretiva da unidade autônoma;</span></p>
+
+<p class=MsoBodyText style='margin-left:71.4pt;text-indent:-18.0pt;line-height:
+115%'><span style='line-height:115%;font-weight:normal'>C.<span
+style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp; </span></span><span
+style='line-height:115%;font-weight:normal'>Se o COMPRADOR implementar
+alterações na unidade autônoma, por sua conta e risco, devendo responder
+inclusive perante o condomínio e seus vizinhos pelos danos que causar.</span></p>
+
+<p class=MsoNormal style='text-align:justify'><span style='font-family:"Times New Roman","serif"'>7.
+8 )  A VENDEDORA recomenda a leitura atenta do manual do proprietário antes da
+realização de qualquer ato pelo COMPRADOR, especialmente para a remoção de
+paredes de qualquer ambiente ou acréscimo de cargas (exemplificativamente
+enchimento de pisos e execução de degraus) podem causar fissuras no próprio
+apartamento ou nos a ele superiores ou inferiores, assim como a capacidade
+instalada em relação à utilização de energia elétrica.</span></p>
+
+<p class=MsoNormal style='text-align:justify'><span style='font-family:"Times New Roman","serif"'>7.
+9 )  O presente contrato é firmado em caráter <i>“ad corpus”</i>, ou seja, não
+será considerada infração ao projeto de construção e ao memorial arquivado no
+Registro de Imóveis competente, qualquer diferença encontrada, para mais ou
+para menos, não excedente de 5% (cinco por cento) nas medidas do terreno e nas
+medidas e/ou nas áreas da unidade autônoma ou das partes de uso comum, sempre
+se tomando como ponto de referência o eixo das paredes. Nesta hipótese, a
+VENDEDORA ficará eximida do pagamento de qualquer compensação ou indenização ao
+COMPRADOR.</span></p>
+
+<p class=MsoNormal style='text-align:justify'><span style='font-family:"Times New Roman","serif"'>7.
+10 )  O COMPRADOR declara ter conhecimento que serão admitidas atualizações
+tecnológicas pela VENDEDORA de sistemas ou equipamentos definidos em projeto
+aprovado, garantindo-se ao COMPRADOR vantagens com as possíveis mudanças,
+justificadas na relação custo-benefício e desempenho, sem qualquer depreciação
+das qualidades técnicas originais, não correspondendo ainda ao COMPRADOR
+qualquer ônus ou bonificação gerada por novas soluções. </span></p>
+
+<p class=CA style='margin:0cm;margin-bottom:.0001pt;text-indent:0cm;line-height:
+115%'><span style='line-height:115%;font-family:"Times New Roman","serif"'>7.
+11 )  O Condomínio possuirá <span style='layout-grid-mode:line'>garagem
+condominial com capacidade para abrigar </span>244 vagas indeterminadas, para
+estacionamento de veículos do tipo passeio, tamanhos pequeno, médio e grande,
+das quais 02 vagas são destinadas ao uso de pessoas portadoras de necessidades
+especiais.</span></p>
+
+<p class=MsoBodyText style='line-height:115%'><span style='line-height:115%;
+font-weight:normal'>&nbsp;</span></p>
+
+<p class=MsoBodyText style='line-height:115%'><span style='line-height:115%;
+font-weight:normal'>7. 12 )  As vagas de garagem foram calculadas
+considerando-se a necessidade sempre de auxílio de manobrista para movimentação
+de veículos nas áreas de estacionamento, respeitadas as posturas municipais
+vigentes e o projeto do empreendimento.</span></p>
+
+<p class=MsoNormal style='text-align:justify'><span style='font-family:"Times New Roman","serif"'>&nbsp;</span></p>
+
+<p class=MsoNormal style='text-align:justify'><span style='font-family:"Times New Roman","serif"'>7.
+13 )  A escolha da(s) vaga(s) de garagem de uso comum dos condôminos, na proporção
+do direito de utilização de cada unidade autônoma de que estes são titulares, é
+efetuada neste ato pela VENDEDORA e será ratificada na Assembléia Geral de
+Instalação do Condomínio. </span></p>
+
+<p class=MsoNormal style='text-align:justify;text-indent:35.4pt'><span
+style='font-family:"Times New Roman","serif"'>7. 13. 1 )  Somente será
+realizada uma nova redistribuição de vagas de garagem, caso seja assim
+deliberado pelos condôminos em Assembléia Geral Extraordinária a ser convocada
+para este fim específico e aprovado por 2/3 (dois terços) da totalidade dos
+condôminos.</span></p>
+
+<p class=MsoNormal style='text-align:justify'><span style='font-family:"Times New Roman","serif"'>            7.
+13. 2 )  O COMPRADOR outorga, de forma irrevogável e irretratável, poderes à
+VENDEDORA, na forma dos artigos 653 e seguintes do Código Civil em vigor, em
+especial no artigo 684, para representá-lo na Assembléia Geral de Instalação do
+Condomínio com a finalidade única e exclusiva de ratificar a escolha das vagas de
+garagem de uso comum do COMPRADOR e dos demais condôminos.</span></p>
+
+<p class=MsoNormal style='text-align:justify;text-indent:35.4pt'><span
+style='font-family:"Times New Roman","serif"'>7. 13. 3 )  O COMPRADOR obriga-se
+a dar conhecimento a seus sucessores em relação à escolha de vaga(s) na forma
+supra, bem como das disposições contidas na convenção condominial a esse
+respeito.</span></p>
+
+<p class=MsoNormal style='text-align:justify;text-indent:35.4pt'><span
+style='font-family:"Times New Roman","serif"'>&nbsp;</span></p>
+
+<p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt;text-align:
+justify'><b><span style='font-family:"Times New Roman","serif"'>&nbsp;</span></b></p>
+
+<p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt;text-align:
+justify'><b><span style='font-family:"Times New Roman","serif"'>CLÁUSULA OITAVA
+– DO INADIMPLEMENTO E RECISÃO CONTRATUAL</span></b></p>
+
+<p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt;text-align:
+justify'><b><span style='font-family:"Times New Roman","serif"'>&nbsp;</span></b></p>
+
+<p class=MsoNormal style='text-align:justify'><span style='font-family:"Times New Roman","serif"'>            8.
+1 )  O atraso no pagamento de qualquer quantia devida em razão desta avença,
+caracterizará o COMPRADOR como inadimplente, sujeitando-o ao pagamento à
+VENDEDORA dos valores vencidos e não pagos, corrigidos monetariamente, de
+acordo com a variação <i>&quot;pro rata die&quot;</i>, pelo índice aplicável
+nos termos deste contrato, acrescidos de juros de mora de 1% (um por cento) ao
+mês ou fração de mês e da multa moratória (de aplicação imediata) de 2% (dois
+por cento).</span></p>
+
+<p class=MsoNormal style='text-align:justify'><span style='font-family:"Times New Roman","serif"'>            8.
+2 )  Ficam expressamente estabelecidas as seguintes hipóteses de rescisão do
+presente instrumento: </span></p>
+
+<p class=MsoListParagraphCxSpFirst style='text-align:justify;text-indent:-18.0pt'><span
+style='font-family:"Times New Roman","serif"'>A.<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;
+</span></span><span style='font-family:"Times New Roman","serif"'>Se o
+COMPRADOR ficar em mora quanto ao pagamento de qualquer quantia integrante do
+preço desta promessa de venda e compra, observado o disposto no item 8.2.1
+abaixo;</span></p>
+
+<p class=MsoListParagraphCxSpMiddle style='text-align:justify;text-indent:-18.0pt'><span
+style='font-family:"Times New Roman","serif"'>B.<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;
+</span></span><span style='font-family:"Times New Roman","serif"'>Se, enquanto
+houver saldo devedor em favor da VENDEDORA, o COMPRADOR promover a cessão ou a
+transferência a terceiros dos direitos e obrigações decorrentes deste contrato,
+sem observância dos requisitos da cláusula décima adiante;</span></p>
+
+<p class=MsoListParagraphCxSpMiddle style='text-align:justify;text-indent:-18.0pt'><span
+style='font-family:"Times New Roman","serif"'>C.<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;
+</span></span><span style='font-family:"Times New Roman","serif"'>Se o COMPRADOR
+não cumprir qualquer outra obrigação prevista neste contrato, assim como
+aquelas a ele acessórias tais como: pagamento das taxas condominiais ordinárias
+e extraordinárias relativas à unidade; seguros, Imposto Predial e Territorial
+Urbano (IPTU), Taxa de Resíduos Sólidos Domiciliares (TRSD), enquanto não
+houver quitado seu preço, ou, mesmo que quitado, não houver transmitido seu
+domínio junto ao Registro de Imóveis competente.</span></p>
+
+<p class=MsoListParagraphCxSpMiddle style='text-align:justify;text-indent:-18.0pt'><span
+style='font-family:"Times New Roman","serif"'>D.<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;
+</span></span><span style='font-family:"Times New Roman","serif"'>Se o
+COMPRADOR, sem consentimento prévio e expresso da VENDEDORA, constituir
+qualquer ônus real sobre a unidade autônoma; </span></p>
+
+<p class=MsoListParagraphCxSpMiddle style='text-align:justify;text-indent:-18.0pt'><span
+style='font-family:"Times New Roman","serif"'>E.<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;
+</span></span><span style='font-family:"Times New Roman","serif"'>Se contra o
+COMPRADOR for movida ação ou execução, ou decretada medida judicial, que de
+algum modo afete o imóvel objeto deste compromisso, no todo ou em parte, ou que
+lhe afete o patrimônio, reduzindo ou tornando duvidosa a possibilidade de
+cumprir as obrigações ora estabelecidas;</span></p>
+
+<p class=MsoListParagraphCxSpMiddle style='text-align:justify;text-indent:-18.0pt'><span
+style='font-family:"Times New Roman","serif"'>F.<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span></span><span style='font-family:"Times New Roman","serif"'>Se o
+COMPRADOR incidir em insolvência; ou,</span></p>
+
+<p class=MsoListParagraphCxSpLast style='text-align:justify;text-indent:-18.0pt'><span
+style='font-family:"Times New Roman","serif"'>G.<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;
+</span></span><span style='font-family:"Times New Roman","serif"'>Se o
+COMPRADOR fizer composição moratória com seus credores, oferecendo em garantia
+os direitos decorrentes deste compromisso.</span></p>
+
+<p class=MsoNormal style='text-align:justify'><span style='font-family:"Times New Roman","serif"'>            8.
+2. 1 )  Na hipótese descrita na letra “a” acima, o COMPRADOR somente será
+constituído em mora após prévia interpelação judicial, ou por intermédio do
+cartório de registro de títulos e documentos, nos moldes do Decreto-Lei nº 745
+de 07/08/1969, hipótese em que o COMPRADOR deverá, no prazo máximo de 15
+(quinze) dias, efetuar o pagamento do principal, atualizado monetariamente e
+com as penalidades previstas no Item 8.1 deste contrato.</span></p>
+
+<p class=MsoNormal style='text-align:justify'><span style='font-family:"Times New Roman","serif"'>            8.
+2. 2 )  Caso o COMPRADOR não purgue a mora no prazo estipulado no Item 8.2.1
+acima, a VENDEDORA poderá, a seu exclusivo critério:</span></p>
+
+<p class=MsoListParagraphCxSpFirst style='text-align:justify;text-indent:-18.0pt'><span
+style='font-family:"Times New Roman","serif"'>A.<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;
+</span></span><span style='font-family:"Times New Roman","serif"'>Antecipar o
+vencimento do saldo do preço do contrato; ou</span></p>
+
+<p class=MsoListParagraphCxSpLast style='text-align:justify;text-indent:-18.0pt'><span
+style='font-family:"Times New Roman","serif"'>B.<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;
+</span></span><span style='font-family:"Times New Roman","serif"'>Considerar o
+presente instrumento rescindido de pleno direito, sendo que, nesta hipótese, a
+VENDEDORA deverá devolver os valores até então pagos, deduzindo as verbas
+estipuladas no item 8.3 abaixo.</span></p>
+
+<p class=MsoNormal style='text-align:justify'><span style='font-family:"Times New Roman","serif"'>            8.
+2. 3 )  Na hipótese de ajuizamento de ação judicial pela VENDEDORA para
+rescisão do contrato e efetivação de seus direitos, o COMPRADOR será
+responsável pelo pagamento das custas processuais e honorários advocatícios,
+que ficam desde já fixados em 20% (vinte por cento) sobre o valor do débito em
+aberto.</span></p>
+
+<p class=MsoNormal style='text-align:justify'><span style='font-family:"Times New Roman","serif"'>            8.
+2. 4 )  Caso o COMPRADOR esteja na posse do imóvel, fica reconhecido e
+assegurado à VENDEDORA, nas hipóteses previstas no item 8.2, o direito de se
+reintegrar liminarmente na posse da unidade objetivada neste instrumento.</span></p>
+
+<p class=MsoNormal style='text-align:justify'><span style='font-family:"Times New Roman","serif"'>8.
+3 )  Operando-se a hipótese do item 8.2.2, letra “B” acima, a VENDEDORA deverá
+devolver os valores até então pagos pelo COMPRADOR, deduzindo as verbas abaixo
+arroladas:</span></p>
+
+<p class=MsoListParagraphCxSpFirst style='text-align:justify;text-indent:-18.0pt'><span
+style='font-family:"Times New Roman","serif"'>A.<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;
+</span></span><span style='font-family:"Times New Roman","serif"'>Verbas de
+corretagem e fração correspondente aos gastos com publicidade, despendidos pela
+VENDEDORA na ocasião da venda, desde já fixados em 10% (dez por cento) do preço
+total de venda da unidade monetariamente atualizado;</span></p>
+
+<p class=MsoListParagraphCxSpMiddle style='text-align:justify;text-indent:-18.0pt'><span
+style='font-family:"Times New Roman","serif"'>B.<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;
+</span></span><span style='font-family:"Times New Roman","serif"'>Juros
+moratórios e compensatórios e multa moratória, devidos até a data estabelecida
+para a purgação da mora;</span></p>
+
+<p class=MsoListParagraphCxSpMiddle style='text-align:justify;text-indent:-18.0pt'><span
+style='font-family:"Times New Roman","serif"'>C.<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;
+</span></span><span style='font-family:"Times New Roman","serif"'>Contribuição
+ao PIS sobre os valores pagos à VENDEDORA;</span></p>
+
+<p class=MsoListParagraphCxSpMiddle style='text-align:justify;text-indent:-18.0pt'><span
+style='font-family:"Times New Roman","serif"'>D.<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;
+</span></span><span style='font-family:"Times New Roman","serif"'>Contribuição
+ao COFINS sobre os valores pagos à VENDEDORA;</span></p>
+
+<p class=MsoListParagraphCxSpMiddle style='text-align:justify;text-indent:-18.0pt'><span
+style='font-family:"Times New Roman","serif"'>E.<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;
+</span></span><span style='font-family:"Times New Roman","serif"'>Condomínio de
+utilização (valores devidos até a data da efetiva desocupação);</span></p>
+
+<p class=MsoListParagraphCxSpMiddle style='text-align:justify;text-indent:-18.0pt'><span
+style='font-family:"Times New Roman","serif"'>F.<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span></span><span style='font-family:"Times New Roman","serif"'>Luz e gás
+(valores devidos até a data da efetiva desocupação);</span></p>
+
+<p class=MsoListParagraphCxSpMiddle style='text-align:justify;text-indent:-18.0pt'><span
+style='font-family:"Times New Roman","serif"'>G.<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;
+</span></span><span style='font-family:"Times New Roman","serif"'>IPTU e TRSD
+(valores devidos até a data da efetiva desocupação);</span></p>
+
+<p class=MsoListParagraphCxSpMiddle style='text-align:justify;text-indent:-18.0pt'><span
+style='font-family:"Times New Roman","serif"'>H.<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;
+</span></span><span style='font-family:"Times New Roman","serif"'>Reparos
+necessários à reposição do imóvel no mesmo estado em que foi entregue ao
+COMPRADOR, salvo se este já o tenha devolvido à VENDEDORA nesta condição;</span></p>
+
+<p class=MsoListParagraphCxSpMiddle style='text-align:justify;text-indent:-18.0pt'><span
+style='font-family:"Times New Roman","serif"'>I.<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span></span><span style='font-family:"Times New Roman","serif"'>Taxa diária
+de ocupação, ora fixada em 0,1% (um décimo por cento) sobre o preço de venda,
+corrigido pelos índices aqui pactuados, e devida desde o primeiro dia do mês da
+entrega da posse do imóvel ao COMPRADOR, ou da data em que o imóvel se encontre
+disponível para entrega ao COMPRADOR, considerada sempre a que primeiro
+ocorrer, até a efetiva devolução do imóvel, se o COMPRADOR já se encontrar na
+posse, à época de sua mora;</span></p>
+
+<p class=MsoListParagraphCxSpMiddle style='text-align:justify;text-indent:-18.0pt'><span
+style='font-family:"Times New Roman","serif"'>J.<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span></span><span style='font-family:"Times New Roman","serif"'>Todos os
+tributos e leis sociais pagos em decorrência do recebimento das parcelas do
+preço;</span></p>
+
+<p class=MsoListParagraphCxSpLast style='text-align:justify;text-indent:-18.0pt'><span
+style='font-family:"Times New Roman","serif"'>K.<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;
+</span></span><span style='font-family:"Times New Roman","serif"'>Custas,
+despesas judiciais e honorários de advogado, eventualmente incorridos;</span></p>
+
+<p class=MsoNormal style='text-align:justify'><span style='font-family:"Times New Roman","serif"'>8.
+4 )  Efetuados os descontos e as deduções estabelecidos no item 8.3 acima, a
+VENDEDORA deverá efetuar a devolução de 70% (setenta por cento) do saldo
+apurado ao COMPRADOR, a título de reembolso, sendo certo que a devolução será
+feita em 12 (doze) parcelas mensais, iguais e sucessivas, atualizadas
+monetariamente de acordo com o índice e critérios constantes neste instrumento,
+vencendo-se a primeira delas dentro de 30 (trinta) dias a contar da assinatura
+do instrumento de rescisão, ou do trânsito em julgado de sentença irrecorrível
+que decrete a rescisão, ou da desocupação do imóvel, considerada a que ocorrer
+por último, e as demais parcelas em igual dia dos meses subseqüentes.</span></p>
+
+<p class=MsoNormal style='text-align:justify'><span style='font-family:"Times New Roman","serif"'>            8.
+4. 1 )  O COMPRADOR receberá a referida devolução desde que o imóvel tenha sido
+restituído à VENDEDORA, livre e desocupado de pessoas e coisas, e reposto ao
+idêntico estado em que lhe foi entregue.</span></p>
+
+<p class=MsoNormal style='text-align:justify'><span style='font-family:"Times New Roman","serif"'>8.
+5 )  Na hipótese de rescisão, judicial ou extrajudicial, deste contrato, a
+VENDEDORA terá livre disponibilidade sobre o imóvel, podendo, inclusive,
+aliená-lo a terceiros, ainda que não tenha restituído as quantias devidas ao
+COMPRADOR na forma deste contrato, inclusive no caso em que o COMPRADOR deixar
+de recebê-las, por sua ação ou omissão.</span></p>
+
+<p class=MsoNormal style='text-align:justify'><span style='font-family:"Times New Roman","serif"'>8.
+6 )  Ainda na hipótese de rescisão deste contrato, o COMPRADOR perderá em favor
+da VENDEDORA as benfeitorias úteis e as voluptuárias introduzidas no imóvel. As
+necessárias serão compensadas, em favor da VENDEDORA, com as perdas e danos e
+lucros cessantes verificados em decorrência do inadimplemento do COMPRADOR. As
+acessões erigidas no terreno incorporar-se-ão a este e já estão incluídas no
+preço contratado. Assim, em caso de inadimplemento, o COMPRADOR não fará jus a
+qualquer tipo de indenização pelas acessões que constituirão a futura unidade
+autônoma e que não se confundem com as benfeitorias acima mencionadas que ele
+eventualmente introduzir no imóvel.</span></p>
+
+<p class=MsoNormal style='text-align:justify'><span style='font-family:"Times New Roman","serif"'>&nbsp;</span></p>
+
+<p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt;text-align:
+justify'><b><span style='font-family:"Times New Roman","serif"'>CLÁUSULA NONA –
+DA IMISSÃO NA POSSE E DA ESCRITURA DEFINITIVA</span></b></p>
+
+<p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt;text-align:
+justify'><b><span style='font-family:"Times New Roman","serif"'>&nbsp;</span></b></p>
+
+<p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt;text-align:
+justify'><b><span style='font-family:"Times New Roman","serif"'>&nbsp;</span></b></p>
+
+<p class=MsoNormal style='text-align:justify'><span style='font-family:"Times New Roman","serif"'>9.
+1 )  O COMPRADOR será imitido na posse da unidade objeto do presente
+instrumento mediante assinatura do termo de entrega de chaves da unidade, desde
+que esteja em dia com suas obrigações dispostas neste contrato, conforme item
+9. 1. 3 abaixo, e cumpra o procedimento descrito no item 7. 5 acima.</span></p>
+
+<p class=MsoNormal style='text-align:justify;text-indent:35.4pt'><span
+style='font-family:"Times New Roman","serif"'>9. 1. 1 )  Independentemente da
+entrega das chaves da unidade, passarão a correr por conta exclusiva do
+COMPRADOR, a partir da data de disponibilidade para recebimento das chaves do
+imóvel, da expedição do auto de conclusão (“habite-se”) ou da instalação do
+condomínio, o que ocorrer primeiro, na proporção que competir à sua unidade
+autônoma, o IPTU, todos os demais impostos, taxas, tarifas públicas e
+concessionárias incidentes ou que venham a incidir sobre o imóvel, ainda que
+cobrados ou lançados em nome da VENDEDORA, bem como as despesas ordinárias e
+extraordinárias de condomínio. Serão, ainda, de responsabilidade do COMPRADOR,
+na proporção que competir à sua unidade autônoma, as despesas para ligação
+definitiva dos serviços públicos e as custas e os emolumentos para registro da
+especificação do condomínio junto ao Oficial de Registro de Imóveis competente.
+Se o COMPRADOR deixar de efetuar qualquer dos pagamentos acima previstos,
+ficará constituído em mora para todos os fins de direito. O COMPRADOR é o único
+e exclusivo responsável por praticar todos os atos necessários à alteração do
+cadastro do imóvel junto a PMRP, de modo que o COMPRADOR figure como o sujeito
+passivo do IPTU.</span></p>
+
+<p class=MsoNormal style='text-align:justify;text-indent:35.4pt'><span
+style='font-family:"Times New Roman","serif"'>9. 1. 2 )  Fica ainda certo e
+ajustado que o COMPRADOR responderá perante a VENDEDORA por seu inadimplemento
+no pagamento de referidas obrigações que venham a ser cobradas da VENDEDORA,
+especialmente junto ao condomínio e à Municipalidade, ficando responsável pela
+assunção de todos os encargos e penalidades contratuais e legais cabíveis, bem
+como todos os custos a que a VENDEDORA venha a incorrer por força de tal
+inadimplemento, tais como aqueles relativos a medidas extrajudiciais ou
+judiciais que venha a promover para fins de cobrança do valor inadimplido pelo
+COMPRADOR, ou que sejam contra ela indevidamente promovidas para tal fim,
+incluindo-se, caso o inadimplemento origine procedimento judicial, os custos
+mensais para obtenção/renovação das correspondentes certidões de objeto e pé
+dos respectivos processos, as custas processuais, honorários advocatícios e
+sucumbência.</span></p>
+
+<p class=MsoNormal style='text-align:justify'><span style='font-family:"Times New Roman","serif"'>            9.
+1. 3 )  As chaves serão entregues ao COMPRADOR, desde que este esteja em dia
+com todas as obrigações assumidas neste contrato, sob pena da VENDEDORA exercer
+o direito de retenção da unidade ora compromissada, conforme dispõe o artigo 52
+da Lei nº 4591/64<i>.</i></span></p>
+
+<p class=MsoNormal style='text-align:justify'><span style='font-family:"Times New Roman","serif"'>            9.
+1. 4 )  Se o COMPRADOR, por qualquer meio ou forma, ocupar sua unidade autônoma
+sem ter previamente cumprido todas suas obrigações, cometerá infração ao
+disposto no artigo 52, da Lei 4.591/64, sendo considerado, assim, esbulhador,
+e, nesta hipótese, fica assegurado à VENDEDORA o exercício dos direitos ali
+previstos, através das medidas legais e judiciais, sendo que essa ocupação indevida
+ensejará, inclusive, sua reintegração de posse, com mandato <i>&quot;initio
+litis&quot;</i>. Ocorrendo tal hipótese, o COMPRADOR será obrigado a pagar a
+multa diária no valor estipulado no item 8.3., alínea “I”, deste contrato.</span></p>
+
+<p class=MsoNormal style='text-align:justify'><span style='font-family:"Times New Roman","serif"'>9.
+2 )  A escritura definitiva será outorgada após a quitação integral do preço
+com a total liquidação das parcelas elencadas nas <i>Alíneas f.1 à f.4 </i>do <i>Quadro
+Resumo</i>, além das obrigações acessórias de recolhimento de impostos, taxas,
+tributos, contribuições condominiais, e outras que porventura sejam exigíveis. </span></p>
+
+<p class=MsoNormal style='text-align:justify;text-indent:35.4pt;background:
+white'><span style='font-family:"Times New Roman","serif"'>9. 2. 1 )  A
+VENDEDORA, a seu livre e exclusivo critério, poderá optar por contratar a
+alienação fiduciária do imóvel objeto deste contrato, em garantia do
+cumprimento das obrigações ora assumidas pelo COMPRADOR, concordando este
+expressamente.</span></p>
+
+<p class=MsoNormal style='text-align:justify;text-indent:35.4pt;background:
+white'><span style='font-family:"Times New Roman","serif"'>9. 2. 2 )  Em tal
+hipótese, a VENDEDORA convocará o COMPRADOR para receber a escritura definitiva
+do imóvel que está sendo por ele adquirido.</span></p>
+
+<p class=MsoNormal style='text-align:justify;text-indent:35.4pt;background:
+white'><span style='font-family:"Times New Roman","serif"'>9. 2. 3 )  No mesmo
+ato da outorga de aludida escritura, em garantia do cumprimento das obrigações
+ainda pendentes, o COMPRADOR transferirá à VENDEDORA, em caráter fiduciário, a
+propriedade do imóvel objeto deste.</span></p>
+
+<p class=MsoNormal style='text-align:justify;text-indent:35.4pt;background:
+white'><span style='font-family:"Times New Roman","serif"'>9. 2. 4 )  A
+constituição da propriedade fiduciária será efetivada mediante registro no
+Oficial de Registro de Imóveis, do contrato que servirá de título ao negócio
+fiduciário e que será celebrado de acordo com minuta padrão a ser fornecida
+pela VENDEDORA, cujo conteúdo atenderá o disposto na Lei nº 9.514, de 20 de
+novembro de 1997.</span></p>
+
+<p class=MsoNormal style='text-align:justify;background:white'><span
+style='font-family:"Times New Roman","serif"'>          9. 2. 5 )  Constituída
+a propriedade fiduciária, haverá o desdobramento da posse, sendo o COMPRADOR
+detentor da posse direta e a VENDEDORA detentora da posse indireta do imóvel.</span></p>
+
+<p class=MsoNormal style='text-align:justify;text-indent:35.4pt'><span
+style='font-family:"Times New Roman","serif"'>9. 2. 6 )  Para fins de outorga
+de escritura, o COMPRADOR ficará obrigado, se já tiver sido imitido da posse,
+na forma da legislação vigente, a apresentar à VENDEDORA e/ou ao Cartório de
+Notas a correspondente certidão de quitação de tributos imobiliários referente
+ao imóvel em questão, bem como a declaração de inexistência de débitos
+condominiais, assinada pelo síndico, com firma reconhecida, acompanhada da
+cópia da Ata de Assembléia Geral que o elegeu. Constatado débito em aberto fica
+o COMPRADOR responsável pela quitação integral do respectivo valor, ficando a
+outorga da respectiva escritura suspensa até o cumprimento dessa obrigação.</span></p>
+
+<p class=MsoNormal style='text-align:justify;text-indent:35.4pt'><span
+style='font-family:"Times New Roman","serif"'>9. 2. 7 )  Correrá por conta do
+COMPRADOR todas as despesas para lavratura da escritura, o seu registro e todas
+as demais decorrentes, tais como prêmios relativos a seguro, deságios, imposto
+sobre operações financeiras (IOF), imposto de transmissão de bens imóveis (ITBI),
+emolumentos de cartórios, certidões imobiliárias e distribuidores em nome da
+VENDEDORA e dele COMPRADOR, e o que mais lhe for atinente.</span></p>
+
+<p class=MsoNormal style='text-align:justify;text-indent:35.4pt'><span
+style='font-family:"Times New Roman","serif"'>&nbsp;</span></p>
+
+<p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt;text-align:
+justify'><b><span style='font-family:"Times New Roman","serif"'>CLÁUSULA DÉCIMA
+– DA CESSÃO E TRANSFERÊNCIA</span></b></p>
+
+<p class=MsoNormal style='text-align:justify'><span style='font-family:"Times New Roman","serif"'>&nbsp;</span></p>
+
+<p class=MsoNormal style='text-align:justify'><span style='font-family:"Times New Roman","serif"'>10.
+1 )  O COMPRADOR somente poderá ceder os direitos de que se torna titular
+através do presente contrato, aliená-los ou gravá-los, a qualquer título, com a
+prévia e expressa anuência da VENDEDORA, que não poderá negá-la, desde que: </span></p>
+
+<p class=MsoListParagraphCxSpFirst style='text-align:justify;text-indent:-18.0pt'><span
+style='font-family:"Times New Roman","serif"'>A.<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;
+</span></span><span style='font-family:"Times New Roman","serif"'>O COMPRADOR
+esteja em dia, na ocasião, com os pagamentos e demais obrigações por ele assumidas
+através do presente instrumento; </span></p>
+
+<p class=MsoListParagraphCxSpMiddle style='text-align:justify;text-indent:-18.0pt'><span
+style='font-family:"Times New Roman","serif"'>B.<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;
+</span></span><span style='font-family:"Times New Roman","serif"'>O novo
+adquirente se sub-rogue em todas as obrigações assumidas pelo COMPRADOR neste
+instrumento;</span></p>
+
+<p class=MsoListParagraphCxSpMiddle style='text-align:justify;text-indent:-18.0pt'><span
+style='font-family:"Times New Roman","serif"'>C.<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;
+</span></span><span style='font-family:"Times New Roman","serif"'>O novo
+adquirente venha a comprovar, de modo irrefutável, a sua idoneidade jurídica,
+econômica e financeira, comprovando estar apto a assumir as obrigações que lhe
+forem imputadas; e,</span></p>
+
+<p class=MsoListParagraphCxSpLast style='text-align:justify;text-indent:-18.0pt'><span
+style='font-family:"Times New Roman","serif"'>D.<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;
+</span></span><span style='font-family:"Times New Roman","serif"'>O COMPRADOR
+efetue o pagamento da taxa de transferência à VENDEDORA, correspondente a 1%
+(um por cento) do preço total da presente venda, indicado na<i> Alínea D </i>do
+<i>Quadro Resumo</i>, atualizado monetariamente de acordo com os índices aqui
+ajustados.</span></p>
+
+<p class=MsoNormal style='text-align:justify'><span style='font-family:"Times New Roman","serif";
+layout-grid-mode:line'>10. 2 )  A VENDEDORA se exime de qualquer obrigação ou
+responsabilidade, relativo ao recolhimento do Imposto de Transmissão de Bens
+Imóveis (ITBI) incidente sobre a cessão de direito, sendo certo que o instrumento
+que vier a consubstanciar este ato deverá obedecer aos termos da minuta padrão,
+a ser fornecida oportunamente pela VENDEDORA.</span></p>
+
+<p class=MsoNormal style='text-align:justify'><span style='font-family:"Times New Roman","serif"'>10.
+3 )  Ocorrendo a transferência sem a anuência da VENDEDORA, esta será nula de
+pleno direito, permanecendo o COMPRADOR vinculado às obrigações assumidas
+perante a VENDEDORA ficando sujeito, ainda, à rescisão contratual e a suas
+implicações legais e contratuais, a teor da cláusula sexta deste contrato</span></p>
+
+<p class=MsoNormal style='text-align:justify'><span style='font-family:"Times New Roman","serif"'>.</span></p>
+
+<p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt;text-align:
+justify'><b><span style='font-family:"Times New Roman","serif"'>CLÁUSULA DÉCIMA
+PRIMEIRA – DAS CONDIÇÕES SUSPENSIVAS</span></b></p>
+
+<p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt;text-align:
+justify'><b><span style='font-family:"Times New Roman","serif"'>&nbsp;</span></b></p>
+
+<p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt;text-align:
+justify'><span style='font-family:"Times New Roman","serif"'>&nbsp;</span></p>
+
+<p class=MsoNormal style='text-align:justify'><span style='font-family:"Times New Roman","serif"'>11.
+1 )  Constitui-se condição básica à efetivação da incorporação imobiliária em
+que se insere a unidade condominial ora objetivada, a comercialização pela
+VENDEDORA de, no mínimo, 60% (sessenta por cento) das unidades, no prazo de até
+180 (cento e oitenta) dias a contar da data do registro da incorporação
+imobiliária, podendo, nesse prazo, caso não seja verificada tal condição, a
+VENDEDORA optar pela desistência da incorporação, conforme disposições contidas
+no artigo 34 e seguintes da Lei 4.591/64.</span></p>
+
+<p class=MsoNormal style='text-align:justify;text-indent:35.4pt'><span
+style='font-family:"Times New Roman","serif"'>11. 1. 1 )  Caso exerça o direito
+de arrependimento acima mencionado, a VENDEDORA poderá rescindir o presente
+instrumento, de pleno direito, devendo, para tanto, notificar
+extrajudicialmente o COMPRADOR.</span></p>
+
+<p class=MsoNormal style='text-align:justify;text-indent:35.4pt'><span
+style='font-family:"Times New Roman","serif"'>11. 1. 2 )  A notificação
+extrajudicial será remetida pela VENDEDORA ao COMPRADOR, no prazo de 30
+(trinta) dias a contar da desistência da incorporação junto ao Registro de
+Imóveis. Dita notificação será enviada no endereço indicado na <i>Alínea A </i>do
+<i>Quadro Resumo</i> e deverá indicar a motivação da desistência da
+incorporação, informando a conseqüente rescisão automática do presente
+instrumento.</span></p>
+
+<p class=MsoNormal style='text-align:justify;text-indent:35.4pt'><span
+style='font-family:"Times New Roman","serif"'>11. 1. 3 )  No prazo 30 (trinta)
+dias a contar da desistência junto ao Registro de Imóveis, a VENDEDORA deverá
+providenciar depósito em conta corrente a ser aberta para tal finalidade em nome
+do COMPRADOR, procedendo, assim, à devolução dos valores recebidos, atualizados
+pelo INCC/FGV.</span></p>
+
+<p class=MsoNormal style='text-align:justify;text-indent:35.4pt'><span
+style='font-family:"Times New Roman","serif"'>11. 1. 3. 1 )  Caso a VENDEDORA
+não disponibilize o referido reembolso no prazo estipulado acima, ficará ainda
+obrigada ao pagamento de multa moratória no importe de 2% (dois por cento) e
+juros à razão de 1% (um por cento) ao mês, até a efetiva devolução ao COMPRADOR
+das quantias devidas.</span></p>
+
+<p class=MsoNormal style='text-align:justify'><span style='font-family:"Times New Roman","serif"'>11.
+2 )  Constituem, portanto, condição básica à consecução plena do negócio ora
+avençado, ultimada com a transferência ao COMPRADOR da efetiva da propriedade
+do imóvel em apreço a comercialização do número mínimo de unidades autônomas,
+tal como referido no item 11.1 acima.</span></p>
+
+<p class=MsoNormal style='text-align:justify'><span style='font-family:"Times New Roman","serif"'>11.
+3 )  Assim, as partes convencionam subordinar a eficácia do presente
+instrumento à condição suspensiva referida no item 11.2 acima, nos termos do
+artigo 125 do Código Civil Brasileiro.</span></p>
+
+<p class=MsoNormal style='text-align:justify'><span style='font-family:"Times New Roman","serif"'>11.
+4 )  Deste modo, até que estejam superadas todas as condições suspensivas
+referidas no item 11.2 retro, todos os pagamentos realizados pelo COMPRADOR
+serão considerados como depósito para a aquisição da unidade autônoma
+objetivada neste instrumento.</span></p>
+
+<p class=MsoNormal style='text-align:justify'><span style='font-family:"Times New Roman","serif"'>11.
+5 )  Havendo a desistência do empreendimento, o presente contrato será
+considerado rescindido, de pleno direito, retornando os contratantes ao
+&quot;statu quo ante&quot;, sem cominação de penalidade de lado a lado.</span></p>
+
+<p class=MsoNormal style='text-align:justify'><span style='font-family:"Times New Roman","serif"'>&nbsp;</span></p>
+
+<p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt;text-align:
+justify'><b><span style='font-family:"Times New Roman","serif"'>CLÁUSULA DÉCIMA
+SEGUNDA – DAS DISPOSIÇÕES GERAIS</span></b></p>
+
+<p class=MsoNormal style='text-align:justify'><span style='font-family:"Times New Roman","serif"'>&nbsp;</span></p>
+
+<p class=MsoNormal style='text-align:justify'><span style='font-family:"Times New Roman","serif"'>12.
+1 )  O presente instrumento, ressalvadas as hipóteses de rescisão expressamente
+previstas nas cláusulas sétima e décima, é celebrado em caráter irrevogável e
+irretratável e, assim, extensivo e obrigatório aos cessionários ou promitentes
+cessionários dos contratantes, bem como a seus herdeiros e sucessores, a
+qualquer título, renunciando as partes ao direito de arrependimento.</span></p>
+
+<p class=MsoBodyText style='line-height:115%'><span style='line-height:115%;
+font-weight:normal'>12. 2 )  As cláusulas e condições, notadamente aquelas
+concernentes ao preço, à forma de pagamento, ao prazo e à forma de execução da
+obra, estabelecidas no presente instrumento substituem e revogam quaisquer
+outras anteriormente divulgadas ao público ou ajustadas com o COMPRADOR, ou por
+este simplesmente pleiteada na fase de intermediação de venda, nada podendo,
+conseqüentemente, ser invocado em desacordo com o ora pactuado.</span></p>
+
+<p class=MsoNormal style='text-align:justify'><span style='font-family:"Times New Roman","serif"'>12.
+3 )  O recebimento fora dos prazos estabelecidos de qualquer parcela prevista
+neste instrumento, a qualquer título, ou de outros encargos contratuais e/ou
+qualquer adiamento na aplicação das penalidades previstas neste instrumento,
+será sempre considerada mero ato de tolerância por parte da VENDEDORA, não
+podendo ser invocado pelo COMPRADOR, como novação ou alteração contratual, sob
+qualquer hipótese. </span></p>
+
+<p class=MsoNormal style='text-align:justify'><span style='font-family:"Times New Roman","serif"'>12.
+4 )  Por este mesmo instrumento e na melhor forma de direito, o COMPRADOR
+nomeia e constitui a VENDEDORA sua bastante procuradora para exercer os mais
+amplos, gerais e ilimitados poderes para praticar, em nome dele, todos os atos
+prescritos pela Lei nº 4.591/64 e pelas demais legislações pertinentes,
+respeitadas a fração ideal de terreno, a unidade autônoma e as respectivas
+áreas comuns objeto desta contratação.</span></p>
+
+<p class=MsoNormal style='text-align:justify;text-indent:35.4pt'><span
+style='font-family:"Times New Roman","serif"'>12. 4. 1 )  Entre esses poderes,
+incluem-se especialmente os seguintes:</span></p>
+
+<p class=MsoListParagraphCxSpFirst style='text-align:justify;text-indent:-18.0pt'><span
+style='font-family:"Times New Roman","serif"'>A.<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;
+</span></span><span style='font-family:"Times New Roman","serif"'>Representá-lo
+perante o Registro de Imóveis competente; para efetivar eventuais retificações
+da incorporação; para efetivar, no momento próprio, o registro da instituição,
+divisão, especificação e convenção do condomínio; proceder a oportuna averbação
+das construções faltantes; formular pedidos e requerimentos de qualquer
+natureza;</span></p>
+
+<p class=MsoListParagraphCxSpMiddle style='text-align:justify;text-indent:-18.0pt'><span
+style='font-family:"Times New Roman","serif"'>B.<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;
+</span></span><span style='font-family:"Times New Roman","serif"'>Modificar,
+ratificar, re-ratificar, em qualquer de suas disposições, o memorial de
+incorporação e a minuta de convenção de condomínio já registrados no 1º Oficial
+de Registro de Imóveis de Ribeirão Preto - SP, relativos ao condomínio onde se
+insere a unidade objetivada;</span></p>
+
+<p class=MsoListParagraphCxSpMiddle style='text-align:justify;text-indent:-18.0pt'><span
+style='font-family:"Times New Roman","serif"'>C.<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;
+</span></span><span style='font-family:"Times New Roman","serif"'>Proceder à
+redação final da convenção de condomínio e elaborar os instrumentos de sua
+instituição, divisão e especificação e todos os documentos que se fizerem
+necessários na consecução destes fins; elaborar, aprovar e expedir os
+Regimentos Internos ou Regulamentos Internos do Condomínio, estabelecendo
+cláusulas e condições de qualquer natureza, subscrever e assinar esses
+instrumentos e documentos;</span></p>
+
+<p class=MsoListParagraphCxSpMiddle style='text-align:justify;text-indent:-18.0pt'><span
+style='font-family:"Times New Roman","serif"'>D.<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;
+</span></span><span style='font-family:"Times New Roman","serif"'>Elaborar
+quaisquer outros documentos, com as disposições necessárias, úteis ou
+convenientes; modificá-los, retificá-los, re-ratificá-los, subscrevê-los e
+assiná-los; registrá-los no Registro de Imóveis e órgãos competentes, podendo
+realizar esses atos por instrumento particular ou escritura pública;</span></p>
+
+<p class=MsoListParagraphCxSpMiddle style='text-align:justify;text-indent:-18.0pt'><span
+style='font-family:"Times New Roman","serif"'>E.<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;
+</span></span><span style='font-family:"Times New Roman","serif"'>Representá-lo,
+igualmente, perante a Prefeitura Municipal de Ribeirão Preto - SP, requerendo o
+quanto necessário em relação à transferência da inscrição fiscal da unidade
+autônoma objeto desta contratação;</span></p>
+
+<p class=MsoListParagraphCxSpMiddle style='text-align:justify;text-indent:-18.0pt'><span
+style='font-family:"Times New Roman","serif"'>F.<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span></span><span style='font-family:"Times New Roman","serif"'>Apresentar documentos
+e prestar informações a qualquer órgão ou entidade competentes;</span></p>
+
+<p class=MsoListParagraphCxSpMiddle style='text-align:justify;text-indent:-18.0pt'><span
+style='font-family:"Times New Roman","serif"'>G.<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;
+</span></span><span style='font-family:"Times New Roman","serif"'>Promover
+todas as medidas para a implementação e funcionamento do Condomínio,
+incluindo-se nessas medidas a contratação da sua administradora e a contratação
+das empresas de manutenção técnica, como a de elevadores, e as demais
+prestadoras de serviços;</span></p>
+
+<p class=MsoListParagraphCxSpMiddle style='text-align:justify;text-indent:-18.0pt'><span
+style='font-family:"Times New Roman","serif"'>H.<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;
+</span></span><span style='font-family:"Times New Roman","serif"'>Efetuar a
+cessão de créditos e sua securitização perante sociedades securitizadoras ou
+entidades financeiras interessadas nos créditos e na securitização; concordar
+previamente com os termos dos citados contratos, que deverão ser lavrados
+conforme os dispositivos da legislação própria; caucionar, ceder e securitizar
+os direitos creditícios originados deste instrumento ou dos contratos que forem
+celebrados; custodiar, ceder fiduciariamente e securitizar, se e quando
+necessário, as notas promissórias e/ou outros títulos emitidos pelo COMPRADOR e
+vinculados a este instrumento, bem como constituir garantias reais; sub-rogar o
+COMPRADOR nas relações com o agente financiador da construção ou com a
+sociedade securitizadora, tão-só no que se refere aos valores devidos por ele,
+comprador, em razão do presente instrumento, sem qualquer alteração de tais
+valores e seus vencimentos, critérios e índices de atualização monetária; para
+este fim a VENDEDORA poderá, igualmente contratar assinando os documentos
+cabíveis;</span></p>
+
+<p class=MsoListParagraphCxSpMiddle style='text-align:justify;text-indent:-18.0pt'><span
+style='font-family:"Times New Roman","serif"'>I.<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span></span><span style='font-family:"Times New Roman","serif"'>Com o escopo
+de assegurar ao empreendimento <b>RESIDENCIAL BELVEDÉRE</b>, desde seu início o
+serviço administrativo pós entrega da obra, compatível com o padrão adotado
+fica desde já, facultado a <b>VENDEDORA</b> instituir o primeiro (a) síndico
+(a) do condomínio, ou indicar terceiro, seja pessoa física ou jurídica, assim
+como, pelo mesmo período de seu mandato, indicar e contratar a administradora,
+o que o <b>COMPRADOR</b> expressamente aceita.</span></p>
+
+<p class=MsoListParagraphCxSpMiddle style='text-align:justify;text-indent:-18.0pt'><span
+style='font-family:"Times New Roman","serif"'>J.<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span></span><span style='font-family:"Times New Roman","serif"'>O mandato do
+sindico (a) nomeado (a) pela <b>VENDEDORA</b> expirará em 24 (vinte e quatro)
+meses após a conclusão da última torre do empreendimento, a ser entregue, no
+período avençado nesse instrumento.</span></p>
+
+<p class=MsoListParagraphCxSpMiddle style='text-align:justify;text-indent:-18.0pt'><span
+style='font-family:"Times New Roman","serif"'>K.<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;
+</span></span><span style='font-family:"Times New Roman","serif"'> O sindico
+(a) nomeado (a) pela <b>VENDEDORA</b> poderá ser destituído (a) por votação de
+condôminos que representem 75% da totalidade dos condôminos, reunidos em assembléia
+geral, convocada na forma da convenção do condomínio, especialmente para este
+fim.</span></p>
+
+<p class=MsoListParagraphCxSpMiddle style='text-align:justify;text-indent:-18.0pt'><span
+style='font-family:"Times New Roman","serif"'>L.<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;
+</span></span><span style='font-family:"Times New Roman","serif"'> A
+Administradora escolhida pela <b>VENDEDORA</b> exercerá a administração do
+condomínio edilício, pelo prazo do mandato do sindico nomeado pela <b>VENDEDORA</b>,
+ou seja, pelo menos 24 meses, podendo ser prorrogado por prazo indeterminado se
+acordado em assembléia condominial.</span></p>
+
+<p class=MsoListParagraphCxSpLast style='text-align:justify;text-indent:-18.0pt'><span
+style='font-family:"Times New Roman","serif"'>M.<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;
+</span></span><span style='font-family:"Times New Roman","serif"'>Substabelecer
+o presente mandato, no todo ou em parte, com ou sem reservas.</span></p>
+
+<p class=MsoBodyText2 style='text-align:justify;line-height:115%'><span
+style='font-family:"Times New Roman","serif"'>            12. 4. 2 )  O mandato
+acima é constituído em caráter irrevogável e irretratável.</span></p>
+
+<p class=MsoNormal style='text-align:justify'><span style='font-family:"Times New Roman","serif"'>            12.
+4. 3 ) No caso de pluralidade de pessoas, todos os compradores constituem-se
+mútua e reciprocamente como bastante procuradores, para todos os efeitos do
+presente contrato, em caráter irrevogável e irretratável, em especial para o
+recebimento de citações, ainda que iniciais, intimações, notificações e
+interpelações de qualquer procedimento judicial ou extrajudicial, de tal forma
+que a comunicação de qualquer espécie feita a um dos compradores ou a seu
+cônjuge, importará automaticamente na do outro. </span></p>
+
+<p class=MsoNormal style='text-align:justify'><span style='font-family:"Times New Roman","serif"'>12.
+5 )  Em cumprimento ao disposto no artigo 46 do Código de Defesa do Consumidor,
+a fim de que o COMPRADOR tomasse conhecimento prévio do conteúdo do que aqui
+está pactuado, ficando bem informado e consciente de seus direitos e
+obrigações, o presente contrato lhe foi submetido, previamente, para análise e
+estudo, sendo que o COMPRADOR manifestou-se no sentido de que está bem
+esclarecido quanto às condições contratuais, notadamente quanto as cláusulas e
+condições que, de alguma forma, lhe restrinjam direitos.</span></p>
+
+<p class=MsoNormal style='text-align:justify'><span style='font-family:"Times New Roman","serif"'>12.
+6 )  O COMPRADOR, desde já, permite que a VENDEDORA, mesmo após a instalação do
+Condomínio, e enquanto existam apartamentos à venda no edifício, mantenha no
+mesmo, se assim desejar, corretores e placas promocionais em madeira, metal ou
+acrílico, alusivas ao empreendimento, sendo autorizado, neste ato, o uso das
+partes comuns pelos corretores enquanto trabalham. </span></p>
+
+<p class=MsoNormal style='text-align:justify'><span style='font-family:"Times New Roman","serif"'>12.
+7 )  Declara o COMPRADOR que todas as informações, anúncios,  prospectos e
+outras peças promocionais ou elementos, de qualquer natureza, que fazem
+referência  à incorporação e venda  do empreendimento, prestados ou realizados
+até a presente data, e que ficam fazendo parte integrante e complementar do
+presente, são suficientemente esclarecedoras do empreendimento, e se encontram
+perfeitamente de acordo com as disposições aqui avençadas, nas plantas e
+especificações, na convenção do condomínio, e enfim, com o respectivo Memorial
+de Incorporação registrado no Cartório de Registro de Imóveis.</span></p>
+
+<p class=MsoNormal style='text-align:justify'><span style='font-family:"Times New Roman","serif"'>12.
+8 )  O COMPRADOR declara-se ciente e concordante com o fato de que o presente
+instrumento não é coberto por qualquer modalidade de seguro de morte, invalidez
+permanente, inadimplência ou de qualquer outra natureza.</span></p>
+
+<p class=MsoNormal style='text-align:justify'><span style='font-family:"Times New Roman","serif"'>12.
+9 )  Eventuais valores pagos pelo COMPRADOR a título de assessoria técnica
+jurídica ou comercial para a realização da presente transação não estão
+contemplados na presente e se constituem em relações não abrangidas em seu
+escopo.</span></p>
+
+<p class=MsoNormal style='text-align:justify'><span style='font-family:"Times New Roman","serif"'>12.
+10 )  O presente instrumento só se tornará válido e efetivo a partir da
+quitação total do sinal contratado e especificado no quadro resumo, até então
+fica reservado à VENDEDORA, mediante simples comunicação endereçada ao(s) COMPRADOR(ES),
+a não comercialização do negócio, voltando as partes ao estado anterior,
+recebendo o(s) COMPRADOR(ES) em devolução, qualquer quantia anteriormente paga.
+Neste caso, fica a VENDEDORA liberada para negociar a unidade ora transacionada
+com terceiro interessado, independente da assinatura de qualquer outro
+documento</span></p>
+
+<p class=MsoNormal style='text-align:justify'><span style='font-family:"Times New Roman","serif"'>12.
+11 )  O COMPRADOR declara ter sido esclarecido e ter tido a oportunidade de
+analisar adequadamente o empreendimento, o imóvel objeto, a documentação a ele
+relativa, bem como da VENDEDORA, as condições contratuais e de preço e
+condições de pagamento, tendo sido informado em relação a todas e quaisquer
+dúvidas ocorridas em referida análise, firmando o presente consciente das
+obrigações nele constantes, especialmente as relativas ao preço, forma de
+pagamento e conhecimento do imóvel sua localização, dimensões, acabamento e
+demais características.</span></p>
+
+<p class=MsoNormal style='text-align:justify'><span style='font-family:"Times New Roman","serif"'>12.
+12 ) O COMPRADOR tem ciência, expressando desde já sua concordância, que a VENDEDORA
+efetuará análise documental e de credito do(s) COMPRADOR(ES), visando verificar
+sua capacidade de pagamento quanto às obrigações pecuniárias previstas neste
+instrumento, inclusive verificação de sua ficha sócio-econômica e cadastral
+(SERASA, SPC, SEGAM, Associação Comercial entre outros), nada tendo a se opor.
+Realizada a análise, uma vez verificada a impossibilidade da continuidade do
+presente negócio, a presente condição resolutiva será levada a termo, mediante
+simples comunicação endereçada ao(s) COMPRADOR(ES), sobre a não comercialização
+do negócio, voltando as partes ao estado anterior, recebendo o(s) COMPRADOR(ES)
+em devolução, a quantia anteriormente paga, por conta do preço ora ajustado.
+Neste caso, fica a VENDEDORA liberada para negociar a unidade ora transacionada
+com terceiro interessado, independente da assinatura de qualquer outro
+documento.</span></p>
+
+<p class=MsoNormal style='text-align:justify'><span style='font-family:"Times New Roman","serif"'>12.
+13 )  O COMPRADOR obriga-se a assumir todos os direitos e obrigações
+instituídas na convenção do Condomínio nas proporções cabíveis à unidade ora
+objetivada.</span></p>
+
+<p class=MsoNormal style='text-align:justify'><span style='font-family:"Times New Roman","serif"'>12.
+14 )  O COMPRADOR obriga-se a comunicar expressamente a seus cessionários,
+locatários, usuários ou adquirentes da unidade objetivada todas as condições do
+empreendimento, em especial em relação à convenção do Condomínio, o respectivo
+regimento interno e decisões assembleares que vierem a ser deliberadas. </span></p>
+
+<p class=MsoBodyText3 style='text-align:justify'><span style='font-size:11.0pt;
+line-height:115%;font-family:"Times New Roman","serif"'>12. 15 )  A
+inaplicabilidade ou nulidade, declarada por decisão judicial irrecorrível,
+relativa a qualquer cláusula ou disposição do presente instrumento, não
+prejudica ou altera as demais cláusulas e disposições nele estipulados,
+continuando plenamente válido com relação à parte não alterada ou suprimida por
+decisão judicial.</span></p>
+
+<p class=MsoNormal style='text-align:justify'><span style='font-family:"Times New Roman","serif"'>12.
+16 )  Fica eleito o foro da Comarca de Ribeirão Preto - SP, com exclusão de
+qualquer outro, por mais privilegiado qualquer que seja, para dirimir eventuais
+dúvidas ou questões decorrentes deste contrato.</span></p>
+
+<p class=MsoNormal style='text-align:justify'><span style='font-family:"Times New Roman","serif"'>E
+por estarem justos e contratados, assinam o presente instrumento em 03 (três)
+vias de igual teor e forma, na presença de 02 (duas) testemunhas abaixo
+assinadas, para que produza os seus jurídicos e legais efeitos.</span></p>
+
+<p class=MsoNormal style='text-align:justify'><span style='font-family:"Times New Roman","serif"'>&nbsp;</span></p>
+
+<p class=MsoNormal style='text-align:justify'><span style='font-family:"Times New Roman","serif" '>Ribeirão Preto, </span><span style='font-size:12.0pt;
+line-height:115%'><?php echo $DIA ?> de <?php echo $MES ?> de <?php echo $ANO ?>.</span><span style='font-size:12.0pt;
+line-height:115%'>     </span></p>
+
+<p class=MsoNormal style='text-align:justify'><span style='font-family:"Times New Roman","serif"'>VENDEDORA:</span></p>
+
+<p class=MsoNormal style='text-align:justify'><span style='font-family:"Times New Roman","serif"'>&nbsp;</span></p>
+
+<p class=MsoNormal style='text-align:justify'><span style='font-family:"Times New Roman","serif"'>____________________________________________________</span></p>
+
+<p class=MsoNormal style='text-align:justify'><span style='font-family:"Times New Roman","serif"'>ZENITH RP SPE EMPREENDIMENTO IMOBILIÁRIO LTDA</span></p>
+
+<p class=MsoNormal style='text-align:justify'><span style='font-family:"Times New Roman","serif"'>&nbsp;</span></p>
+
+<p class=MsoNormal style='margin-top:0cm;margin-right:-35.5pt;margin-bottom:
+0cm;margin-left:0cm;margin-bottom:.0001pt;text-align:justify'><b><span
+style='font-size:12.0pt;line-height:115%'>COMPRADOR(A,ES,AS)</span></b></p>
+
+<p class=MsoNormal style='margin-right:-35.5pt;text-align:justify'><b><span
+style='font-size:12.0pt;line-height:115%'>&nbsp;</span></b></p>
+
+<p class=MsoNormal style='margin-right:-35.5pt;text-align:justify'><b><span
+style='font-size:12.0pt;line-height:115%'>&nbsp;</span></b></p>
+
+<p class=MsoNormal style='margin-right:-35.5pt;text-align:justify'><b><span
+style='font-size:12.0pt;line-height:115%'><?php echo $ASS_COMPRADORES ?></span></b></p>
+
+<h1 style='text-align:justify;line-height:115%'><span style='font-family:"Times New Roman","serif";
+font-weight:normal'>&nbsp;</span></h1>
+
+<h1 style='text-align:justify;line-height:115%'><span style='font-family:"Times New Roman","serif";
+font-weight:normal'>TESTEMUNHAS</span></h1>
+
+<h1 style='text-align:justify;line-height:115%'><span style='font-family:"Times New Roman","serif";
+font-weight:normal'>&nbsp;</span></h1>
+
+<p class=MsoNormal style='text-align:justify'><span style='font-family:"Times New Roman","serif"'>&nbsp;</span></p>
+
+<p class=MsoNormal style='text-align:justify'><span style='font-family:"Times New Roman","serif"'>&nbsp;</span></p>
+
+<p class=MsoNormal style='text-align:justify'><span style='font-family:"Times New Roman","serif"'>_______________________________                     _______________________________</span></p>
+
+<h1 style='text-align:justify;line-height:115%'><span style='font-family:"Times New Roman","serif";
+font-weight:normal'>Nome:                                                                        Nome:</span></h1>
+
+<h1 style='text-align:justify;line-height:115%'><span style='font-family:"Times New Roman","serif";
+font-weight:normal'>RG.:                                                                           RG.:</span></h1>
+
+<h1 style='text-align:justify;line-height:115%'><span style='font-family:"Times New Roman","serif";
+font-weight:normal'>CPF/MF.:                                                                   CPF/MF.:</span></h1>
+
+<p class=MsoNormal style='text-align:justify'><span style='font-family:"Times New Roman","serif"'>&nbsp;</span></p>
+
+<p class=MsoNormal style='margin-right:-35.5pt;text-align:justify'><span
+style='font-family:"Times New Roman","serif"'>(Essas assinaturas fazem parte
+integrante do Instrumento Particular de Promessa de Venda e Compra e Outras
+Avenças, assinado em </span><b><span style='font-size:12.0pt;line-height:115%'><?php echo $DATA_EMISSAO ?></b></span>
+, objetivando a unidade nº </span><b><span style='font-size:12.0pt;line-height:115%'><?php echo $APTO ?></span></b><span
+style='font-family:"Times New Roman","serif"'>, da Torre </span><b><span
+style='font-size:12.0pt;line-height:115%'><?php echo $BLOCO ?> </span></b><span style='font-family:"Times New Roman","serif"'>, do
+Residencial BELVEDERE GRAND MIRANT).</span></p>
+
+</div>
+
+</body>
+
+</html>
